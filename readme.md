@@ -57,7 +57,7 @@ python synonym_graph.py
 ```
 Will give you an image 'graph of synonmys in ENGLISH base size-10 span-3.png' of your graph:
 
-![Alt text](/src/graph of synonmys in ENGLISH base size-10 span-3.png?raw=true "Graph of a few english synonym clusters of span = 3")
+![Alt text](https://github.com/dgoldstein1/Synonym_Analyzer/blob/master/src/graph%20of%20synonmys%20in%20ENGLISH%20base%20size-10%20span-3.png "Graph of a few english synonym clusters of span = 3")
 
 
 ## Authors
