@@ -1,2 +1,2 @@
-networkx
 bs4
+grequests

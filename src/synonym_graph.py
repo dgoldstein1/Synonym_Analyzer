@@ -7,6 +7,7 @@ import sys
 import time
 import os
 
+import Queue
 from random import randint
 import scraper
 from graph_tool.all import *
@@ -31,7 +32,9 @@ class SynonymGraph:
 		self._language = language.upper()
 		self._size = size
 		self._span = span
-		self._createGraph()
+		if not self._createGraph():
+			print "Error initializing graph"
+			sys.exit(1)
 
 
 	def _createGraph(self):
@@ -40,6 +43,7 @@ class SynonymGraph:
 		creates verticies to corresponding synonyms
 		@return success
 		"""
+		self._printProgress(0,1,'Reading word list..')
 		try:
 			parentDir = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
 			path = parentDir + "/lib/word_lists/" + self._language + "_Dictionary.txt"
@@ -48,31 +52,43 @@ class SynonymGraph:
 		except IOError:
 			print "No such file {}".format(path)
 			return False
+		self._printProgress(1,1,'Reading word list..')
 
-		i = 0
-		self._printProgress(i,self._size,'Adding synonyms...')
-		while i <= self._size:
-			word = word_list[randint(0,len(word_list))]
-			word = (word.rstrip('\n')).rstrip('\r').lower() #clean up word
+		LOAD = 100 #load 100 words at a time for multithreading
+		words_added = 0
+		self._printProgress(words_added,self._size,'Adding synonyms..')
+		while words_added <= self._size:
+			words = []
+			for l in range(LOAD):
+				word = word_list[randint(0,len(word_list))]
+				word = (word.rstrip('\n')).rstrip('\r').lower() #clean up word
+				words.append(word)
 
-			if self._addNode(word): #successfully added
-				self._printProgress(i,self._size,'Added {} Synonyms of {}'.format(self._span,word))			
-				i+=1
+
+			que = scraper.getSynonyms(words)
+			while not que.empty():
+				response = que.get()
+				if response is not None:
+					self._addNode(response['word'],response['syns'])
+					words_added+=1
+					self._printProgress(words_added,self._size,response['word'])
+
+
+			# if self._addNode(word): #successfully added
+			# 	self._printProgress(i,self._size,'Added {} Synonyms of {}'.format(self._span,word))			
+			# 	i+=1
 
 		return True
 			
 
-	def _addNode(self,word):
+	def _addNode(self,word,syns):
 		"""
 		Adds a given word to graph if valid
 		@params:	
-			 word 		-required		: 	word to add	(string)
+			word 		-required		: 	word to add	(string)
+			syns 		-required 		: 	list of synomys to add
 		@return  success
 		"""
-
-		synonyms = scraper.scrapeSynonyms(word, self._span)
-		if synonyms is None: #no synonyms found or invalid word
-			return False
 
 		#add vertex for word
 		if not self._verticies.get(word):#create only if not already a node
@@ -84,8 +100,6 @@ class SynonymGraph:
 
 		#add vertex + edge for each synonym
 		for synonym in synonyms:
-
-
 			if not self._verticies.get(synonym):
 				v = self._g.add_vertex()
 				self._verticies[synonym] = v
