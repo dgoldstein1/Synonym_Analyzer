@@ -69,9 +69,8 @@ class SynonymGraph:
 			while not que.empty():
 				response = que.get()
 				if response is not None:
-					self._addNode(response['word'],response['syns'])
 					words_added+=1
-					self._printProgress(words_added,self._size,response['word'])
+					self._addNode(response['word'],response['syns'])
 
 
 			# if self._addNode(word): #successfully added
@@ -99,12 +98,12 @@ class SynonymGraph:
 		word_vertex = self._verticies[word] #get vertex id of word
 
 		#add vertex + edge for each synonym
-		for synonym in synonyms:
+		for synonym in syns:
 			if not self._verticies.get(synonym):
 				v = self._g.add_vertex()
 				self._verticies[synonym] = v
 				self._v_prop[v] = synonym
-			self._g.add_edge(word_vertex, v)
+				self._g.add_edge(word_vertex, v)
 
 		return True
 
