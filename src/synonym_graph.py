@@ -110,7 +110,7 @@ class SynonymGraph:
 
 	def drawGraph(self):
 		graph_draw(self._g,vertex_text=self._v_prop,
-			output="graph of synonmys in {} base size-{} span-{}.png".format(self._language,self._size,self._span))
+			output="graphs/graph of synonmys in {} base size-{} span-{}.png".format(self._language,self._size,self._span))
 
 	def _printProgress (self,iteration, total, prefix = 'generating tree', suffix = '', decimals = 0, barLength = 40):
 	    """
