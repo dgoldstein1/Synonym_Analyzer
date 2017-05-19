@@ -56,8 +56,9 @@ python synonym_graph.py
 ```
 ### Example
 
+Graph of a few emotions
 
-![Alt text](https://github.com/dgoldstein1/Synonym_Analyzer/blob/master/src/graph%20of%20synonmys%20in%20ENGLISH%20base%20size-10%20span-3.png "Graph of a few english synonym clusters of span = 3")
+![Alt text](https://github.com/dgoldstein1/Synonym_Analyzer/blob/master/src/graphs/graph%20of%20synonmys%20in%20ENGLISH%20base%20size-30%20span-10.png)
 
 
 ## Authors
