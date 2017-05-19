@@ -16,7 +16,7 @@ class SynonymGraph:
 	"""
 	Graphs a network of synonyms based on random words in specified language and specified graph size
 	"""
-	def __init__(self,size=10,span=3,language='english'):
+	def __init__(self,size=10,max_span=3,language='english',wordList=None):
 		"""
 		reads In file with all words in language. Creates node for each word and
 		creates verticies to corresponding synonyms
@@ -31,13 +31,13 @@ class SynonymGraph:
 		self._verticies = {} #map of word (string) -> vertex (int)
 		self._language = language.upper()
 		self._size = size
-		self._span = span
-		if not self._createGraph():
+		self._maxSpan = max_span
+		if not self._createGraph(wordList):
 			print "Error initializing graph"
 			sys.exit(1)
 
 
-	def _createGraph(self):
+	def _createGraph(self,wordList):
 		"""
 		reads In file with all words in language. Creates node for each word and
 		creates verticies to corresponding synonyms
@@ -46,7 +46,8 @@ class SynonymGraph:
 		self._printProgress(0,1,'Reading word list..')
 		try:
 			parentDir = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
-			path = parentDir + "/lib/word_lists/" + self._language + "_Dictionary.txt"
+			path = parentDir + "/lib/word_lists/Dictionaries/" + self._language + "_Dictionary.txt"
+			if wordList is not None: path = parentDir + "/lib/word_lists/" + wordList
 			word_list = open(path,'r').readlines()
 
 		except IOError:
@@ -54,15 +55,18 @@ class SynonymGraph:
 			return False
 		self._printProgress(1,1,'Reading word list..')
 
-		LOAD = 100 #load 100 words at a time for multithreading
+		LOAD = 50 #load 100 words at a time for multithreading
 		words_added = 0
-		self._printProgress(words_added,self._size,'Adding synonyms..')
+		print 'Adding synonyms..'
 		while words_added <= self._size:
 			words = []
-			for l in range(LOAD):
-				word = word_list[randint(0,len(word_list))]
-				word = (word.rstrip('\n')).rstrip('\r').lower() #clean up word
-				words.append(word)
+			for word in word_list[words_added:words_added+LOAD]:
+				words.append((word.rstrip('\n')).rstrip('\r').lower())
+
+			# for l in range(LOAD):
+			# 	word = word_list[randint(0,len(word_list))]
+			# 	word = (word.rstrip('\n')).rstrip('\r').lower() #clean up word
+			# 	words.append(word)
 
 
 			que = scraper.getSynonyms(words)
@@ -71,11 +75,7 @@ class SynonymGraph:
 				if response is not None:
 					words_added+=1
 					self._addNode(response['word'],response['syns'])
-
-
-			# if self._addNode(word): #successfully added
-			# 	self._printProgress(i,self._size,'Added {} Synonyms of {}'.format(self._span,word))			
-			# 	i+=1
+					if (words_added >= self._size): return True
 
 		return True
 			
@@ -98,19 +98,26 @@ class SynonymGraph:
 		word_vertex = self._verticies[word] #get vertex id of word
 
 		#add vertex + edge for each synonym
+		synsAdded = 0
 		for synonym in syns:
+			if (synsAdded >= self._maxSpan): return True
 			if not self._verticies.get(synonym):
 				v = self._g.add_vertex()
 				self._verticies[synonym] = v
 				self._v_prop[v] = synonym
 				self._g.add_edge(word_vertex, v)
+				synsAdded+=1
 
 		return True
 
 
 	def drawGraph(self):
-		graph_draw(self._g,vertex_text=self._v_prop,
-			output="graphs/graph of synonmys in {} base size-{} span-{}.png".format(self._language,self._size,self._span))
+		print "drawing graph.."
+		graph_draw(
+			self._g,
+			vertex_text=self._v_prop,
+			output_size=(self._size * self._maxSpan * 10,self._size * self._maxSpan * 10),
+			output="graphs/graph of synonmys in {} base size-{} span-{}.png".format(self._language,self._size,self._maxSpan))
 
 	def _printProgress (self,iteration, total, prefix = 'generating tree', suffix = '', decimals = 0, barLength = 40):
 	    """
@@ -136,8 +143,8 @@ class SynonymGraph:
 
 if __name__ == "__main__":
 	start_time = time.time()
-
-	g = SynonymGraph()
+	#for more word lists : https://github.com/imsky/wordlists
+	g = SynonymGraph(size=30,max_span=10,wordList='emotion.txt')
 	g.drawGraph()
 
 	print("--- executed in %s seconds ---" % (time.time() - start_time))
