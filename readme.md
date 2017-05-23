@@ -60,6 +60,11 @@ Graph of a few emotions
 
 ![Alt text](https://github.com/dgoldstein1/Synonym_Analyzer/blob/master/src/graphs/graph%20of%20synonmys%20in%20ENGLISH%20base%20size-30%20span-10.png)
 
+Crawling graph of four iterations starting with 'happy'
+
+![Alt text](https://github.com/dgoldstein1/Synonym_Analyzer/blob/master/src/graphs/graph%20of%20synonmys%20in%20ENGLISH%20base%20size-4%20span-3%20-%20crawling%20-%20True.png)
+
+
 
 ## Authors
 
