@@ -16,14 +16,16 @@ class SynonymGraph:
 	"""
 	Graphs a network of synonyms based on random words in specified language and specified graph size
 	"""
-	def __init__(self,size=10,max_span=3,language='english',wordList=None):
+	def __init__(self,size=10,max_span=3,language='english',wordList=None,crawl=None):
 		"""
 		reads In file with all words in language. Creates node for each word and
 		creates verticies to corresponding synonyms
 		@params:
 			size		-optional  : 	# words to scrape and add synonyms
 			span 		-optional  : 	# synonyms to parse and add for each word
-			language   - optional  : 	language to get words from
+			language   	-optional  : 	language to get words from
+			wordList 	-Optional  :    read from selected word list
+			crawl       -optional  :    crawling graph (String) where size is number of 
 
 		"""
 		self._g = Graph(directed=False) 
@@ -32,12 +34,33 @@ class SynonymGraph:
 		self._language = language.upper()
 		self._size = size
 		self._maxSpan = max_span
-		if not self._createGraph(wordList):
+		self._isCrawlGraph = crawl is not None
+
+		if crawl is not None:
+			if type(crawl) is not str:
+				print "starting word {} is not a string ".format(crawl)
+				sys.exit(1)
+			return self._crawl(crawl)
+
+		elif not self._createGraphFromList(wordList):
 			print "Error initializing graph"
 			sys.exit(1)
 
 
-	def _createGraph(self,wordList):
+	def _crawl(self,currWord,iteration=0):
+		"""
+		crawls graph starting with specified word
+		"""
+		if iteration==self._size: return #stop condition
+		que = scraper.getSynonyms([currWord])
+		while not que.empty():
+			response = que.get()
+			if response is not None:
+				self._addNode(response['word'],response['syns'])
+				for syn in response['syns']: self._crawl(syn,iteration+1)
+
+
+	def _createGraphFromList(self,wordList):
 		"""
 		reads In file with all words in language. Creates node for each word and
 		creates verticies to corresponding synonyms
@@ -116,8 +139,8 @@ class SynonymGraph:
 		graph_draw(
 			self._g,
 			vertex_text=self._v_prop,
-			output_size=(self._size * self._maxSpan * 10,self._size * self._maxSpan * 10),
-			output="graphs/graph of synonmys in {} base size-{} span-{}.png".format(self._language,self._size,self._maxSpan))
+			output_size=(1500,1500),
+			output="graphs/graph of synonmys in {} base size-{} span-{} - crawling - {}.png".format(self._language,self._size,self._maxSpan,self._isCrawlGraph))
 
 	def _printProgress (self,iteration, total, prefix = 'generating tree', suffix = '', decimals = 0, barLength = 40):
 	    """
@@ -144,7 +167,7 @@ class SynonymGraph:
 if __name__ == "__main__":
 	start_time = time.time()
 	#for more word lists : https://github.com/imsky/wordlists
-	g = SynonymGraph(size=30,max_span=10,wordList='emotion.txt')
+	g = SynonymGraph(size=4,max_span=3,crawl="happy")
 	g.drawGraph()
 
 	print("--- executed in %s seconds ---" % (time.time() - start_time))
