@@ -8,19 +8,19 @@ The main class ```synonym_graph.py``` reads in a given number of words in a targ
 
 ## Install
 
-virtualenv dance..
+#### virtualenv
 ```
 cd Synonym_Analyzer
 virtualenv env
 source env/bin/activate
 ```
 
-pip tango...
+#### pip
 ```
 pip install -r requirements.txt
 ```
 
-graph-tools waltz..
+#### graph-tools
 (note: this may take some configuring since the graph-tools base-layer is written in c++. Make sure gcc is the appropriate version-- for more info: https://git.skewed.de/count0/graph-tool/wikis/installation-instructions)
 ```
 sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
