@@ -13,5 +13,10 @@ if [ ! -d "${language}" ]; then
   exit 1
 fi
 
+# clear current data, if any
+> ${language}/thesaurus.json
+{ >> ${language}/thesaurus.json
+
 # run python script to write words to large json
-time python fetcher.py ${language}
+python fetcher.py ${language} >> ${language}/thesaurus.json
+} >> ${language}/thesaurus.json

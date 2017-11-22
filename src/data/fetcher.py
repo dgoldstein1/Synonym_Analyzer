@@ -11,6 +11,7 @@ Fetches language specific synonyms
 # internal dependencies
 import sys
 import argparse
+import os
 
 # external dependencies
 from bs4 import BeautifulSoup
@@ -52,6 +53,26 @@ def getSynonyms(words,language='english', number=5):
 
 	return que
 
+def readInWords(language):
+	"""
+	reads a .txt file into a list of string where each line is an index
+	@param 		language	string 	-Required : language to read in words from 
+	@return		word list   array             : list of words w/o any carriage returns	
+	"""
+	try:
+		path = os.path.abspath(os.path.join(os.getcwd())) + '/lib/word_lists/dictionaries/{}_Dictionary.txt'.format(language.upper())
+		rawWordList = open(path,'r').readlines()
+
+	except IOError:
+		print("No such file {}".format(path))
+		return []
+
+	# remove '\r' and '\n' chars
+	cleanedWordList = []
+	for word in rawWordList:
+		cleanedWordList.append((word.rstrip('\n')).rstrip('\r').lower())
+	return cleanedWordList
+
 
 if __name__ == "__main__":
 
@@ -60,16 +81,13 @@ if __name__ == "__main__":
 	parser.add_argument('language', type=str ,help='The language to get synonyms of')
 	args = parser.parse_args()
 
-	#example usage:
-	# words = ['beautiful', 'sweet', 'pretty', 'gorgeous', 'lovely', 'handsome', 'good', 'better', 'best', 'bad', 'worse', 'worst', 'wonderful', 'splendid', 'mediocre', 'awful', 'fantastic', 'ugly', 'clean', 'dirty', 'wasteful', 'difficult', 'comfortable', 'uncomfortable', 'valuable', 'worthy', 'worthless', 'useful', 'useless', 'important', 'evil', 'angelic', 'rare', 'scarce', 'poor', 'rich', 'disgusting', 'amazing', 'surprising', 'loathesome', 'unusual', 'usual', 'pointless', 'pertinent']
-	words = ['beautiful']
+	# read in dictionart
+	words = readInWords(args.language)
+
+	# fetch synonyms:
 	que = getSynonyms(words, args.language)
 	while not que.empty():
-		print que.get()
-
-
-
-
- 
-	
+		word = que.get()
+		if (word is not None and word != 'None'):
+			print ','
 

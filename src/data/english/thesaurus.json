@@ -1,0 +1,2540 @@
+
+{'word': 'about', 'syns': [u'astir', u'active']}
+,
+{'word': 'abraham', 'syns': [u'Abraham', u'Ibrahim', u'patriarch']}
+,
+{'word': 'absolute', 'syns': [u'dead', u'utter', u'direct', u'implicit', u'unquestioning']}
+,
+{'word': 'aboriginal', 'syns': [u'Aboriginal', u'Australian', u'Aussie', u'ethnic', u'ethnos']}
+,
+{'word': 'aberdeen', 'syns': [u'Aberdeen', u'town', u'port', u'point']}
+,
+{'word': 'ab', 'syns': [u'Bachelor', u'BA', u'Artium', u'AB', u"bachelor's"]}
+,
+{'word': 'absence', 'syns': [u'lack', u'deficiency', u'want', u'presence']}
+,
+{'word': 'aaron', 'syns': [u'Aaron', u'Henry', u'Hank', u'ballplayer', u'baseball']}
+,
+{'word': 'abc', 'syns': [u'rudiment', u'first', u'first', u'alphabet', u'ABC']}
+,
+{'word': 'aaa', 'syns': [u'abdominal', u'AAA', u'aortic']}
+,
+{'word': 'abstract', 'syns': [u'conceptional', u'ideational', u'notional', u'conceptual', u'ideal']}
+,
+{'word': 'aa', 'syns': [u'lava']}
+,
+{'word': 'absent', 'syns': [u'away', u'gone', u'departed', u'devoid', u'introuvable']}
+,
+{'word': 'abroad', 'syns': [u'overseas', u'foreign']}
+,
+{'word': 'abortion', 'syns': [u'termination', u'ending', u'conclusion']}
+,
+{'word': 'absorption', 'syns': [u'soaking', u'sorption']}
+,
+{'word': 'above', 'syns': [u'preceding']}
+,
+{'word': 'abs', 'syns': [u'acrylonitrile-butadiene-styrene', u'ABS', u'plastic']}
+,
+{'word': 'ac', 'syns': [u'actinium', u'Ac', u'atomic', u'chemical', u'element']}
+,
+{'word': 'ability', 'syns': [u'quality', u'inability']}
+,
+{'word': 'academic', 'syns': [u'world', u'domain']}
+,
+{'word': 'absolutely', 'syns': [u'perfectly', u'utterly', u'dead']}
+,
+{'word': 'able', 'syns': [u'unable']}
+,
+{'word': 'a', 'syns': [u'angstrom', u'angstrom', u'A', u'metric']}
+,
+{'word': 'abuse', 'syns': [u'maltreatment', u'ill-treatment', u'ill-usage', u'mistreatment']}
+,
+{'word': 'abandoned', 'syns': [u'derelict', u'uninhabited']}
+,
+{'word': 'acceptable', 'syns': [u'bankable', u'unexceptionable', u'unimpeachable', u'unobjectionable', u'satisfactory']}
+,
+{'word': 'acceptance', 'syns': [u'credence', u'attitude', u'mental']}
+,
+{'word': 'acc', 'syns': [u'Air', u'ACC', u'command']}
+,
+{'word': 'access', 'syns': [u'entree', u'accession', u'admittance', u'right']}
+,
+{'word': 'accent', 'syns': [u'speech', u'pronunciation']}
+,
+{'word': 'accept', 'syns': [u'evaluate', u'pass', u'judge', u'reject']}
+,
+{'word': 'academy', 'syns': [u'secondary', u'lyceum', u'lycee', u'Gymnasium', u'middle']}
+,
+{'word': 'accessibility', 'syns': [u'handiness', u'availability', u'availableness', u'convenience', u'unavailability']}
+,
+{'word': 'accepted', 'syns': [u'recognized', u'recognised', u'acknowledged']}
+,
+{'word': 'accepting', 'syns': [u'acceptive']}
+,
+{'word': 'accessible', 'syns': [u'approachable', u'reachable', u'come-at-able', u'get-at-able', u'getatable']}
+,
+{'word': 'accessory', 'syns': [u'adjunct', u'ancillary', u'adjuvant', u'appurtenant', u'auxiliary']}
+,
+{'word': 'accordingly', 'syns': [u'consequently']}
+,
+{'word': 'accommodation', 'syns': [u'adjustment', u'fitting', u'improvement', u'betterment', u'advance']}
+,
+{'word': 'accordance', 'syns': [u'accord', u'conformity', u'agreement']}
+,
+{'word': 'accreditation', 'syns': [u'certification', u'enfranchisement']}
+,
+{'word': 'accompanying', 'syns': [u'attendant', u'concomitant', u'incidental', u'incidental', u'related']}
+,
+{'word': 'accommodate', 'syns': [u'suit', u'fit', u'meet', u'fit', u'conform']}
+,
+{'word': 'accomplish', 'syns': [u'carry', u'execute', u'carry', u'action', u'fulfill']}
+,
+{'word': 'accountability', 'syns': [u'answerability', u'answerableness', u'responsibility', u'responsibleness']}
+,
+{'word': 'according', 'syns': [u'reported']}
+,
+{'word': 'accident', 'syns': [u'mishap', u'misadventure', u'mischance']}
+,
+{'word': 'accompanied', 'syns': [u'attended', u'unaccompanied']}
+,
+{'word': 'accredited', 'syns': [u'commissioned', u'licensed', u'licenced', u'authorized', u'authorised']}
+,
+{'word': 'accomplished', 'syns': [u'complete', u'skilled']}
+,
+{'word': 'accuracy', 'syns': [u'truth', u'quality', u'inaccuracy']}
+,
+{'word': 'accurate', 'syns': [u'close', u'faithful', u'dead-on', u'high-fidelity', u'hi-fi']}
+,
+{'word': 'accused', 'syns': [u'defendant', u'suspect']}
+,
+{'word': 'accounting', 'syns': [u'explanation', u'account']}
+,
+{'word': 'account', 'syns': [u'business', u'relationship']}
+,
+{'word': 'accurately', 'syns': [u'inaccurately']}
+,
+{'word': 'achieve', 'syns': [u'accomplish', u'attain', u'reach', u'succeed', u'win']}
+,
+{'word': 'ace', 'syns': [u'A-one', u'crack', u'fantastic', u'first-rate', u'super']}
+,
+{'word': 'acer', 'syns': [u'Acer', u'genus', u'dicot', u'magnoliopsid']}
+,
+{'word': 'achievement', 'syns': [u'accomplishment', u'action']}
+,
+{'word': 'acknowledge', 'syns': [u'admit', u'declare', u'adjudge', u'hold', u'deny']}
+,
+{'word': 'acknowledged', 'syns': [u'accepted', u'recognized', u'recognised', u'self-confessed', u'assumed']}
+,
+{'word': 'acid', 'syns': [u'acerb', u'acerbic', u'acrid', u'bitter', u'blistering']}
+,
+{'word': 'acquire', 'syns': [u'get']}
+,
+{'word': 'acne', 'syns': [u'skin', u'disease', u'skin', u'skin', u'skin']}
+,
+{'word': 'acoustic', 'syns': [u'acoustical', u'physics', u'physical', u'natural']}
+,
+{'word': 'acre', 'syns': [u'area', u'square']}
+,
+{'word': 'acquired', 'syns': [u'noninheritable', u'nonheritable']}
+,
+{'word': 'acres', 'syns': [u'estate', u'land', u'landed', u'demesne', u'real']}
+,
+{'word': 'acquisition', 'syns': [u'acquiring', u'getting']}
+,
+{'word': 'acrobat', 'syns': [u'athlete', u'jock']}
+,
+{'word': 'across', 'syns': [u'crosswise', u'crossways']}
+,
+{'word': 'acrylic', 'syns': [u'acrylic', u'man-made', u'synthetic']}
+,
+{'word': 'act', 'syns': [u'enactment', u'legal', u'legal', u'official', u'instrument']}
+,
+{'word': 'activated', 'syns': [u'treated']}
+,
+{'word': 'activation', 'syns': [u'stimulation', u'inactivation']}
+,
+{'word': 'action', 'syns': [u'act', u'human', u'human']}
+,
+{'word': 'acting', 'syns': [u'impermanent', u'temporary']}
+,
+{'word': 'actively', 'syns': [u'passively']}
+,
+{'word': 'actually', 'syns': [u'really']}
+,
+{'word': 'actress', 'syns': [u'actor', u'histrion', u'player', u'thespian', u'role']}
+,
+{'word': 'active', 'syns': [u'progressive', u'inactive']}
+,
+{'word': 'actor', 'syns': [u'histrion', u'player', u'thespian', u'role', u'performer']}
+,
+{'word': 'acts', 'syns': [u'Acts', u'Acts', u'book']}
+,
+{'word': 'ad', 'syns': [u'advertisement', u'advertizement', u'advertising', u'advertizing', u'advert']}
+,
+{'word': 'activity', 'syns': [u'act', u'human', u'human', u'inactivity']}
+,
+{'word': 'ada', 'syns': [u'adenosine', u'ADA', u'enzyme']}
+,
+{'word': 'adapted', 'syns': [u'altered', u'modified']}
+,
+{'word': 'acute', 'syns': [u'subacute', u'chronic']}
+,
+{'word': 'adam', 'syns': [u'Adam', u'man', u'adult']}
+,
+{'word': 'actual', 'syns': [u'existent', u'actualized', u'actualised', u'effective', u'potential']}
+,
+{'word': 'adaptation', 'syns': [u'version', u'writing', u'written', u'piece']}
+,
+{'word': 'adams', 'syns': [u'Adams', u'Sam', u'Samuel', u'American']}
+,
+{'word': 'addition', 'syns': [u'add-on', u'improver', u'component', u'constituent', u'element']}
+,
+{'word': 'additionally', 'syns': [u'in', u'to']}
+,
+{'word': 'adapter', 'syns': [u'arranger', u'transcriber', u'musician']}
+,
+{'word': 'additional', 'syns': [u'extra', u'additive']}
+,
+{'word': 'addressed', 'syns': [u'self-addressed', u'unaddressed']}
+,
+{'word': 'adaptor', 'syns': [u'adapter', u'device']}
+,
+{'word': 'addiction', 'syns': [u'dependence', u'dependance', u'dependency', u'habituation', u'physiological']}
+,
+{'word': 'address', 'syns': [u'computer', u'code', u'computer']}
+,
+{'word': 'add', 'syns': [u'attention', u'ADD', u'attention', u'ADHD', u'hyperkinetic']}
+,
+{'word': 'adaptive', 'syns': [u'adaptative', u'accommodative', u'reconciling', u'adaptational', u'adjustive']}
+,
+{'word': 'adequate', 'syns': [u'adequate', u'capable', u'equal', u'up', u'competent']}
+,
+{'word': 'adelaide', 'syns': [u'Adelaide', u'state']}
+,
+{'word': 'adjacent', 'syns': [u'next', u'side', u'close']}
+,
+{'word': 'adjustment', 'syns': [u'accommodation', u'fitting', u'improvement', u'betterment', u'advance']}
+,
+{'word': 'adjustable', 'syns': [u'adaptable']}
+,
+{'word': 'adjusted', 'syns': [u'attuned', u'keyed', u'tuned', u'attuned', u'tuned']}
+,
+{'word': 'adjust', 'syns': [u'set', u'correct', u'change', u'alter', u'modify']}
+,
+{'word': 'administrative', 'syns': [u'body']}
+,
+{'word': 'administrator', 'syns': [u'decision', u'head', u'chief', u'top']}
+,
+{'word': 'admission', 'syns': [u'admittance', u'entrance', u'entering', u'entry', u'ingress']}
+,
+{'word': 'administration', 'syns': [u'disposal', u'management', u'direction']}
+,
+{'word': 'adolescent', 'syns': [u'time']}
+,
+{'word': 'adobe', 'syns': [u'clay']}
+,
+{'word': 'admit', 'syns': [u'acknowledge', u'declare', u'adjudge', u'hold', u'deny']}
+,
+{'word': 'adult', 'syns': [u'big', u'full-grown', u'fully', u'grown', u'grownup']}
+,
+{'word': 'adopt', 'syns': [u'follow', u'espouse', u'choose', u'take', u'select']}
+,
+{'word': 'adopted', 'syns': [u'adoptive', u'native']}
+,
+{'word': 'advance', 'syns': [u'beforehand', u'early']}
+,
+{'word': 'adrian', 'syns': [u'Hadrian', u'Publius', u'Adrian', u'Roman', u'Emperor']}
+,
+{'word': 'adoption', 'syns': [u'acceptance', u'acceptation', u'espousal', u'blessing', u'approval']}
+,
+{'word': 'advancement', 'syns': [u'promotion', u'furtherance', u'encouragement']}
+,
+{'word': 'advanced', 'syns': [u'precocious']}
+,
+{'word': 'advantage', 'syns': [u'vantage', u'asset', u'plus', u'disadvantage']}
+,
+{'word': 'adverse', 'syns': [u'harmful', u'inauspicious', u'untoward', u'unfavorable', u'unfavourable']}
+,
+{'word': 'advert', 'syns': [u'ad', u'advertisement', u'advertizement', u'advertising', u'advertizing']}
+,
+{'word': 'advertiser', 'syns': [u'advertizer', u'adman', u'publicist', u'publicizer', u'publiciser']}
+,
+{'word': 'adventure', 'syns': [u'escapade', u'risky', u'dangerous', u'undertaking', u'project']}
+,
+{'word': 'advertise', 'syns': [u'publicize', u'advertize', u'publicise', u'announce', u'denote']}
+,
+{'word': 'advice', 'syns': [u'proposal']}
+,
+{'word': 'advertisement', 'syns': [u'ad', u'advertizement', u'advertising', u'advertizing', u'advert']}
+,
+{'word': 'advertising', 'syns': [u'ad', u'advertisement', u'advertizement', u'advertizing', u'advert']}
+,
+{'word': 'advocate', 'syns': [u'advocator', u'proponent', u'exponent', u'person', u'individual']}
+,
+{'word': 'advised', 'syns': [u'well-advised', u'considered', u'wise', u'ill-advised']}
+,
+{'word': 'advise', 'syns': [u'rede', u'counsel', u'hash', u'discuss', u'talk']}
+,
+{'word': 'advisor', 'syns': [u'adviser', u'consultant', u'authority']}
+,
+{'word': 'advocacy', 'syns': [u'protagonism', u'support']}
+,
+{'word': 'aerial', 'syns': [u'air']}
+,
+{'word': 'advisory', 'syns': [u'consultative', u'consultatory', u'consultive', u'informative', u'informatory']}
+,
+{'word': 'aerospace', 'syns': [u'region', u'part']}
+,
+{'word': 'affair', 'syns': [u'matter', u'thing', u'concern']}
+,
+{'word': 'affairs', 'syns': [u'personal', u'personal', u'concern']}
+,
+{'word': 'affect', 'syns': [u'feeling']}
+,
+{'word': 'affecting', 'syns': [u'poignant', u'touching', u'moving']}
+,
+{'word': 'affected', 'syns': [u'impressed', u'smitten', u'stricken', u'struck', u'stage-struck']}
+,
+{'word': 'affordable', 'syns': [u'low-cost', u'low-priced', u'cheap', u'inexpensive']}
+,
+{'word': 'afford', 'syns': [u'spend', u'expend', u'drop']}
+,
+{'word': 'affiliate', 'syns': [u'associate']}
+,
+{'word': 'africa', 'syns': [u'Africa', u'continent']}
+,
+{'word': 'after', 'syns': [u'aft']}
+,
+{'word': 'affiliated', 'syns': [u'attached', u'connected', u'related', u'related']}
+,
+{'word': 'afraid', 'syns': [u'acrophobic', u'afeard', u'afeared', u'aghast', u'appalled']}
+,
+{'word': 'affiliation', 'syns': [u'association', u'tie', u'tie-up', u'relationship']}
+,
+{'word': 'african', 'syns': [u'African', u'continent']}
+,
+{'word': 'age', 'syns': [u'property']}
+,
+{'word': 'afghanistan', 'syns': [u'Afghanistan', u'Islamic', u'Asian', u'Asian']}
+,
+{'word': 'afternoon', 'syns': [u'day', u'daytime', u'daylight']}
+,
+{'word': 'afterwards', 'syns': [u'subsequently', u'later', u'afterward', u'after', u'later']}
+,
+{'word': 'agency', 'syns': [u'federal', u'government', u'bureau', u'office', u'authority']}
+,
+{'word': 'agenda', 'syns': [u'docket', u'schedule', u'plan', u'program', u'programme']}
+,
+{'word': 'aging', 'syns': [u'ageing', u'senescent', u'old']}
+,
+{'word': 'aggressive', 'syns': [u'assertive', u'self-asserting', u'self-assertive', u'battleful', u'bellicose']}
+,
+{'word': 'aged', 'syns': [u'elderly', u'older', u'senior', u'old']}
+,
+{'word': 'agent', 'syns': [u'causal', u'cause', u'causal']}
+,
+{'word': 'aggregate', 'syns': [u'aggregated', u'aggregative', u'mass', u'collective']}
+,
+{'word': 'ago', 'syns': [u'agone', u'past']}
+,
+{'word': 'again', 'syns': [u'once', u'once', u'over']}
+,
+{'word': 'agreed', 'syns': [u'in', u'united']}
+,
+{'word': 'agree', 'syns': [u'hold', u'concur', u'concord', u'disagree']}
+,
+{'word': 'agricultural', 'syns': [u'cultivation']}
+,
+{'word': 'ag', 'syns': [u'silver', u'Ag', u'atomic', u'noble', u'conductor']}
+,
+{'word': 'ai', 'syns': [u'Army', u'AI', u'agency', u'federal', u'government']}
+,
+{'word': 'agreement', 'syns': [u'understanding', u'statement']}
+,
+{'word': 'air', 'syns': [u'aerial', u'aerial', u'flying', u'free-flying', u'land']}
+,
+{'word': 'aircraft', 'syns': [u'craft']}
+,
+{'word': 'aids', 'syns': [u'AIDS', u'acquired', u'immunodeficiency', u'infectious']}
+,
+{'word': 'ala', 'syns': [u'process', u'outgrowth', u'appendage']}
+,
+{'word': 'airport', 'syns': [u'airdrome', u'aerodrome', u'drome', u'airfield', u'landing']}
+,
+{'word': 'aim', 'syns': [u'purpose', u'intent', u'intention', u'design', u'goal']}
+,
+{'word': 'agriculture', 'syns': [u'agribusiness', u'factory', u'commercial', u'business', u'business']}
+,
+{'word': 'al', 'syns': [u'aluminum', u'aluminium', u'Al', u'atomic', u'metallic']}
+,
+{'word': 'airline', 'syns': [u'air', u'hose', u'hosepipe']}
+,
+{'word': 'aid', 'syns': [u'assistance', u'help', u'resource']}
+,
+{'word': 'airplane', 'syns': [u'aeroplane', u'plane', u'heavier-than-air']}
+,
+{'word': 'ahead', 'syns': [u'in', u'leading', u'up']}
+,
+{'word': 'airfare', 'syns': [u'fare', u'transportation']}
+,
+{'word': 'alarm', 'syns': [u'dismay', u'consternation', u'fear', u'fearfulness', u'fright']}
+,
+{'word': 'albania', 'syns': [u'Albania', u'Republic', u'Balkan', u'Balkan', u'Balkan']}
+,
+{'word': 'alabama', 'syns': [u'Alabama', u'Heart', u'Camellia', u'AL', u'American']}
+,
+{'word': 'album', 'syns': [u'record', u'medium']}
+,
+{'word': 'alberta', 'syns': [u'Alberta', u'Canadian']}
+,
+{'word': 'alfred', 'syns': [u'Alfred', u'AElfred', u'Alfred', u'king', u'male']}
+,
+{'word': 'alaska', 'syns': [u'Alaska', u'Last', u'AK', u'American']}
+,
+{'word': 'albuquerque', 'syns': [u'Albuquerque', u'city', u'metropolis', u'urban']}
+,
+{'word': 'algebra', 'syns': [u'pure']}
+,
+{'word': 'alexandria', 'syns': [u'Alexandria', u'town']}
+,
+{'word': 'alias', 'syns': [u'assumed', u'false', u'name']}
+,
+{'word': 'alexander', 'syns': [u'Alexander', u'Alexanders', u'black', u'horse', u'Smyrnium']}
+,
+{'word': 'ak', 'syns': [u'Alaska', u'Last', u'AK', u'American']}
+,
+{'word': 'alleged', 'syns': [u'declared']}
+,
+{'word': 'alcohol', 'syns': [u'alcoholic', u'intoxicant', u'inebriant', u'beverage', u'drink']}
+,
+{'word': 'albert', 'syns': [u'Albert', u'Prince', u'Albert', u'prince']}
+,
+{'word': 'align', 'syns': [u'aline', u'line', u'adjust', u'reorient', u'skew']}
+,
+{'word': 'allen', 'syns': [u'Allen', u'Gracie', u'Grace', u'Gracie', u'comedienne']}
+,
+{'word': 'allowance', 'syns': [u'share', u'portion', u'part', u'percentage']}
+,
+{'word': 'allow', 'syns': [u'let', u'permit', u'prevent']}
+,
+{'word': 'allah', 'syns': [u'Allah', u'God', u'Supreme']}
+,
+{'word': 'algeria', 'syns': [u'Algeria', u'Algerie', u'Democratic', u'African', u'African']}
+,
+{'word': 'albany', 'syns': [u'Albany', u'capital', u'state']}
+,
+{'word': 'alert', 'syns': [u'argus-eyed', u'open-eyed', u'vigilant', u'wakeful', u'watchful']}
+,
+{'word': 'algorithm', 'syns': [u'algorithmic', u'algorithmic', u'rule', u'formula']}
+,
+{'word': 'alliance', 'syns': [u'confederation', u'coalition', u'fusion']}
+,
+{'word': 'ali', 'syns': [u'Ali', u'Muhammad', u'Cassius', u'Cassius', u'prizefighter']}
+,
+{'word': 'alien', 'syns': [u'foreign', u'extrinsic']}
+,
+{'word': 'alignment', 'syns': [u'alliance', u'coalition', u'alinement', u'organization', u'organisation']}
+,
+{'word': 'along', 'syns': [u'on']}
+,
+{'word': 'allergy', 'syns': [u'allergic', u'hypersensitivity']}
+,
+{'word': 'allocation', 'syns': [u'allotment', u'share', u'portion', u'part', u'percentage']}
+,
+{'word': 'alone', 'syns': [u'unsocial']}
+,
+{'word': 'almost', 'syns': [u'about', u'just', u'most', u'all', u'nearly']}
+,
+{'word': 'alter', 'syns': [u'change', u'modify']}
+,
+{'word': 'allied', 'syns': [u'related']}
+,
+{'word': 'alphabetical', 'syns': [u'alphabetic', u'character', u'script', u'analphabetic']}
+,
+{'word': 'alive', 'syns': [u'live', u'liveborn', u'viable', u'vital', u'animate']}
+,
+{'word': 'alike', 'syns': [u'similar', u'like', u'unalike']}
+,
+{'word': 'amateur', 'syns': [u'recreational', u'unpaid', u'nonprofessional']}
+,
+{'word': 'alternative', 'syns': [u'alternate', u'secondary']}
+,
+{'word': 'also', 'syns': [u'besides', u'too', u'likewise', u'as']}
+,
+{'word': 'alternate', 'syns': [u'cyclic', u'cyclical']}
+,
+{'word': 'alto', 'syns': [u'contralto', u'low', u'low-pitched']}
+,
+{'word': 'aluminum', 'syns': [u'aluminium', u'Al', u'atomic', u'metallic', u'metal']}
+,
+{'word': 'amended', 'syns': [u'revised', u'unamended']}
+,
+{'word': 'am', 'syns': [u'americium', u'Am', u'atomic', u'metallic', u'metal']}
+,
+{'word': 'alpha', 'syns': [u'important', u'of']}
+,
+{'word': 'alloy', 'syns': [u'metal', u'mixture']}
+,
+{'word': 'all', 'syns': [u'each', u'every', u'every', u'every', u'some']}
+,
+{'word': 'alternatively', 'syns': [u'as', u'instead', u'or']}
+,
+{'word': 'amend', 'syns': [u'revise']}
+,
+{'word': 'alt', 'syns': [u'elevation', u'EL', u'altitude', u'ALT', u'angular']}
+,
+{'word': 'american', 'syns': [u'American', u'North', u'North']}
+,
+{'word': 'aluminium', 'syns': [u'aluminum', u'Al', u'atomic', u'metallic', u'metal']}
+,
+{'word': 'always', 'syns': [u'ever', u"e'er", u'never']}
+,
+{'word': 'already', 'syns': [u'not']}
+,
+{'word': 'alpine', 'syns': [u'mountain', u'mount']}
+,
+{'word': 'amazing', 'syns': [u'astonishing', u'surprising']}
+,
+{'word': 'amazon', 'syns': [u'virago', u'woman', u'adult']}
+,
+{'word': 'amber', 'syns': [u'brownish-yellow', u'yellow-brown', u'chromatic']}
+,
+{'word': 'ambassador', 'syns': [u'embassador', u'diplomat', u'diplomatist']}
+,
+{'word': 'ambient', 'syns': [u'close']}
+,
+{'word': 'amendment', 'syns': [u'correction', u'rectification']}
+,
+{'word': 'amount', 'syns': [u'magnitude']}
+,
+{'word': 'amenities', 'syns': [u'comforts', u'creature', u'conveniences', u'support', u'keep']}
+,
+{'word': 'ana', 'syns': [u'Ana', u'Celtic']}
+,
+{'word': 'altered', 'syns': [u'adjusted', u'changed', u'emended', u'edited', u'paraphrastic']}
+,
+{'word': 'amino', 'syns': [u'aminic', u'methane', u'alkane', u'alkane', u'paraffin']}
+,
+{'word': 'amsterdam', 'syns': [u'Amsterdam', u'Dutch', u'capital', u'national']}
+,
+{'word': 'america', 'syns': [u'United', u'United', u'America', u'the', u'US']}
+,
+{'word': 'analog', 'syns': [u'analogue', u'linear', u'digital']}
+,
+{'word': 'amp', 'syns': [u'ampere', u'A', u'current']}
+,
+{'word': 'analyst', 'syns': [u'expert']}
+,
+{'word': 'amplifier', 'syns': [u'electronic']}
+,
+{'word': 'analysis', 'syns': [u'investigation', u'investigating']}
+,
+{'word': 'anal', 'syns': [u'orifice', u'opening', u'porta']}
+,
+{'word': 'anatomy', 'syns': [u'general', u'morphology']}
+,
+{'word': 'analyze', 'syns': [u'analyse', u'study', u'examine', u'canvass', u'canvas']}
+,
+{'word': 'anaheim', 'syns': [u'Anaheim', u'city', u'metropolis', u'urban']}
+,
+{'word': 'an', 'syns': [u'Associate', u'AN', u'associate', u'associate']}
+,
+{'word': 'analytical', 'syns': [u'analytic', u'synthetic']}
+,
+{'word': 'analyzed', 'syns': [u'unanalyzed']}
+,
+{'word': 'anderson', 'syns': [u'Anderson', u'Sherwood', u'writer', u'author']}
+,
+{'word': 'andorra', 'syns': [u'Andorra', u'Principality', u'European', u'European']}
+,
+{'word': 'ancient', 'syns': [u'past']}
+,
+{'word': 'anchor', 'syns': [u'ground', u'hook', u'claw']}
+,
+{'word': 'angel', 'syns': [u'spiritual', u'supernatural']}
+,
+{'word': 'andrew', 'syns': [u'Andrew', u'Saint', u'St.', u'Saint', u'Apostle']}
+,
+{'word': 'angry', 'syns': [u'aggravated', u'provoked', u'angered', u'enraged', u'furious']}
+,
+{'word': 'andrews', 'syns': [u'Andrews', u'Roy', u'naturalist', u'natural']}
+,
+{'word': 'angle', 'syns': [u'space']}
+,
+{'word': 'animal', 'syns': [u'carnal', u'fleshly', u'sensual', u'physical']}
+,
+{'word': 'anger', 'syns': [u'choler', u'ire', u'emotion']}
+,
+{'word': 'angola', 'syns': [u'Angola', u'Republic', u'African', u'African']}
+,
+{'word': 'animated', 'syns': [u'alive', u'enlivened', u'spirited', u'full', u'lively']}
+,
+{'word': 'anniversary', 'syns': [u'day', u'day']}
+,
+{'word': 'annex', 'syns': [u'annexe', u'extension', u'wing', u'addition', u'add-on']}
+,
+{'word': 'anna', 'syns': [u'Pakistani']}
+,
+{'word': 'animation', 'syns': [u'life', u'living', u'aliveness', u'being', u'beingness']}
+,
+{'word': 'anne', 'syns': [u'Anne', u'Queen']}
+,
+{'word': 'anime', 'syns': [u'Zanzibar', u'copal']}
+,
+{'word': 'announce', 'syns': [u'denote', u'inform']}
+,
+{'word': 'annotation', 'syns': [u'note', u'notation', u'comment', u'commentary']}
+,
+{'word': 'announcement', 'syns': [u'proclamation', u'annunciation', u'declaration', u'statement']}
+,
+{'word': 'annoying', 'syns': [u'bothersome', u'galling', u'irritating', u'nettlesome', u'pesky']}
+,
+{'word': 'announced', 'syns': [u'proclaimed', u'declared']}
+,
+{'word': 'answer', 'syns': [u'reply', u'response', u'statement']}
+,
+{'word': 'annually', 'syns': [u'yearly', u'every', u'each']}
+,
+{'word': 'anonymous', 'syns': [u'anon.', u'nameless', u'unidentified', u'unknown', u'unnamed']}
+,
+{'word': 'anthropology', 'syns': [u'social']}
+,
+{'word': 'annual', 'syns': [u'yearly', u'time', u'period', u'period']}
+,
+{'word': 'answering', 'syns': [u'respondent', u'responsive']}
+,
+{'word': 'antigua', 'syns': [u'Antigua', u'island']}
+,
+{'word': 'antenna', 'syns': [u'aerial', u'transmitting', u'electrical']}
+,
+{'word': 'another', 'syns': [u'some', u'other']}
+,
+{'word': 'ant', 'syns': [u'emmet', u'pismire', u'hymenopterous', u'hymenopteran', u'hymenopteron']}
+,
+{'word': 'anti', 'syns': [u'opposed', u'opposing', u'pro']}
+,
+{'word': 'anthony', 'syns': [u'Antony', u'Anthony', u'Mark', u'Mark', u'Antonius']}
+,
+{'word': 'antibody', 'syns': [u'protein']}
+,
+{'word': 'antarctica', 'syns': [u'Antarctica', u'Antarctic', u'continent']}
+,
+{'word': 'anymore', 'syns': [u'any']}
+,
+{'word': 'antique', 'syns': [u'old']}
+,
+{'word': 'any', 'syns': [u'whatever', u'whatsoever', u'some']}
+,
+{'word': 'anticipated', 'syns': [u'awaited', u'hoped-for', u'expected']}
+,
+{'word': 'anxiety', 'syns': [u'anxiousness', u'psychological', u'mental']}
+,
+{'word': 'anything', 'syns': [u'thing']}
+,
+{'word': 'apart', 'syns': [u'isolated', u'obscure', u'unconnected']}
+,
+{'word': 'anyway', 'syns': [u'anyhow', u'in', u'at', u'in']}
+,
+{'word': 'apache', 'syns': [u'Apache', u'Athapaskan', u'Athapascan', u'Athabaskan', u'Athabascan']}
+,
+{'word': 'anywhere', 'syns': [u'anyplace']}
+,
+{'word': 'apartment', 'syns': [u'flat', u'housing', u'lodging', u'living']}
+,
+{'word': 'apparent', 'syns': [u'evident', u'manifest', u'patent', u'plain', u'unmistakable']}
+,
+{'word': 'apparatus', 'syns': [u'setup', u'equipment']}
+,
+{'word': 'apparel', 'syns': [u'wearing', u'dress', u'clothes', u'clothing', u'article']}
+,
+{'word': 'apparently', 'syns': [u'seemingly', u'ostensibly', u'on']}
+,
+{'word': 'appeal', 'syns': [u'entreaty', u'prayer', u'request', u'asking']}
+,
+{'word': 'appear', 'syns': [u'look', u'seem', u'be']}
+,
+{'word': 'appearance', 'syns': [u'visual', u'quality']}
+,
+{'word': 'apollo', 'syns': [u'Apollo', u'Phoebus', u'Phoebus', u'Greek']}
+,
+{'word': 'apple', 'syns': [u'edible', u'pome', u'false']}
+,
+{'word': 'appearing', 'syns': [u'appearance', u'coming', u'attendance', u'attending']}
+,
+{'word': 'appendix', 'syns': [u'addendum', u'supplement', u'postscript']}
+,
+{'word': 'appliance', 'syns': [u'contraption', u'contrivance', u'convenience', u'gadget', u'gizmo']}
+,
+{'word': 'applied', 'syns': [u'practical', u'theoretical']}
+,
+{'word': 'apply', 'syns': [u'use', u'utilize', u'utilise', u'employ']}
+,
+{'word': 'application', 'syns': [u'request', u'petition', u'postulation']}
+,
+{'word': 'applicant', 'syns': [u'applier', u'person', u'individual', u'someone', u'somebody']}
+,
+{'word': 'appreciate', 'syns': [u'acknowledge', u'recognize', u'recognise']}
+,
+{'word': 'appointed', 'syns': [u'appointive', u'nominated', u'nominative', u'nonelective', u'non-elective']}
+,
+{'word': 'applicable', 'syns': [u'relevant']}
+,
+{'word': 'approach', 'syns': [u'attack', u'plan', u'conceptualization', u'conceptualisation', u'formulation']}
+,
+{'word': 'approval', 'syns': [u'blessing', u'approving', u'support', u'disapproval']}
+,
+{'word': 'approve', 'syns': [u'O.K.', u'okay', u'sanction', u'authorize', u'authorise']}
+,
+{'word': 'approximate', 'syns': [u'approximative', u'rough', u'inexact']}
+,
+{'word': 'appraisal', 'syns': [u'assessment', u'classification', u'categorization', u'categorisation', u'sorting']}
+,
+{'word': 'approved', 'syns': [u'sanctioned', u'authorized', u'authorised']}
+,
+{'word': 'apr', 'syns': [u'April', u'Apr', u'Gregorian']}
+,
+{'word': 'appreciation', 'syns': [u'grasp', u'hold', u'understanding', u'apprehension', u'discernment']}
+,
+{'word': 'arab', 'syns': [u'Arab', u'Arabian', u'Semite']}
+,
+{'word': 'aqua', 'syns': [u'greenish', u'aquamarine', u'turquoise', u'cobalt', u'peacock']}
+,
+{'word': 'april', 'syns': [u'April', u'Apr', u'Gregorian']}
+,
+{'word': 'aquarium', 'syns': [u'fish', u'marine', u'vivarium', u'tank', u'storage']}
+,
+{'word': 'appointment', 'syns': [u'assignment', u'designation', u'naming', u'decision', u'determination']}
+,
+{'word': 'arabic', 'syns': [u'Arabic', u'Semite']}
+,
+{'word': 'appreciated', 'syns': [u'gratifying', u'pleasing', u'satisfying', u'rewarding']}
+,
+{'word': 'arbitration', 'syns': [u'mediation']}
+,
+{'word': 'arch', 'syns': [u'condescending', u'patronizing', u'patronising', u'superior']}
+,
+{'word': 'arc', 'syns': [u'discharge', u'spark', u'electric', u'electric', u'electrical']}
+,
+{'word': 'architecture', 'syns': [u'building', u'edifice']}
+,
+{'word': 'architectural', 'syns': [u'discipline', u'subject', u'subject', u'subject', u'field']}
+,
+{'word': 'archive', 'syns': [u'depository', u'deposit', u'depositary', u'repository']}
+,
+{'word': 'archives', 'syns': [u'collection', u'compendium']}
+,
+{'word': 'area', 'syns': [u'country', u'region']}
+,
+{'word': 'are', 'syns': [u'ar', u'area', u'square']}
+,
+{'word': 'arctic', 'syns': [u'north-polar', u'Arctic', u'polar']}
+,
+{'word': 'argentina', 'syns': [u'Argentina', u'Argentine', u'South', u'South']}
+,
+{'word': 'appropriate', 'syns': [u'befitting', u'grade-appropriate', u'pat', u'proper', u'right']}
+,
+{'word': 'arise', 'syns': [u'originate', u'rise', u'develop', u'uprise', u'spring']}
+,
+{'word': 'arizona', 'syns': [u'Arizona', u'Grand', u'AZ', u'American']}
+,
+{'word': 'approximately', 'syns': [u'about', u'close', u'just', u'some', u'roughly']}
+,
+{'word': 'arlington', 'syns': [u'Arlington', u'city', u'metropolis', u'urban']}
+,
+{'word': 'arm', 'syns': [u'limb']}
+,
+{'word': 'arkansas', 'syns': [u'Arkansas', u'Land', u'AR', u'American']}
+,
+{'word': 'armed', 'syns': [u'equipped', u'weaponed', u'light-armed', u'militarized', u'militarised']}
+,
+{'word': 'armstrong', 'syns': [u'Armstrong', u'Neil', u'astronaut', u'spaceman', u'cosmonaut']}
+,
+{'word': 'arms', 'syns': [u'weaponry', u'implements', u'weapons', u'munition', u'instrumentality']}
+,
+{'word': 'army', 'syns': [u'regular', u'ground', u'military', u'armed', u'service']}
+,
+{'word': 'arranged', 'syns': [u'ordered', u'laid', u'set', u'placed', u'disarranged']}
+,
+{'word': 'aquatic', 'syns': [u'binary', u'liquid']}
+,
+{'word': 'arabia', 'syns': [u'Arabian', u'Arabia', u'peninsula']}
+,
+{'word': 'arrested', 'syns': [u'in', u'inactive']}
+,
+{'word': 'array', 'syns': [u'arrangement']}
+,
+{'word': 'ar', 'syns': [u'argon', u'Ar', u'atomic', u'chemical', u'element']}
+,
+{'word': 'apt', 'syns': [u'liable', u'likely']}
+,
+{'word': 'around', 'syns': [u'about']}
+,
+{'word': 'arrow', 'syns': [u'pointer', u'mark']}
+,
+{'word': 'arrival', 'syns': [u'reaching', u'accomplishment', u'achievement']}
+,
+{'word': 'arrest', 'syns': [u'apprehension', u'catch', u'collar', u'pinch', u'taking']}
+,
+{'word': 'architect', 'syns': [u'designer', u'creator']}
+,
+{'word': 'article', 'syns': [u'nonfiction', u'nonfictional', u'piece']}
+,
+{'word': 'arrive', 'syns': [u'get', u'come', u'leave']}
+,
+{'word': 'arena', 'syns': [u'sphere', u'domain', u'area', u'orbit', u'field']}
+,
+{'word': 'argue', 'syns': [u'reason', u'present', u'represent', u'lay']}
+,
+{'word': 'arcade', 'syns': [u'passageway']}
+,
+{'word': 'arthritis', 'syns': [u'inflammatory']}
+,
+{'word': 'art', 'syns': [u'fine', u'creation']}
+,
+{'word': 'ascii', 'syns': [u'American', u'ASCII', u'code', u'computer']}
+,
+{'word': 'arts', 'syns': [u'humanistic', u'humanities', u'liberal', u'discipline', u'subject']}
+,
+{'word': 'as', 'syns': [u'arsenic', u'As', u'atomic', u'chemical', u'element']}
+,
+{'word': 'armenia', 'syns': [u'Armenia', u'Republic', u'Hayastan', u'Asian', u'Asian']}
+,
+{'word': 'artistic', 'syns': [u'creator']}
+,
+{'word': 'asia', 'syns': [u'Asia', u'continent']}
+,
+{'word': 'arbitrary', 'syns': [u'absolute', u'capricious', u'impulsive', u'whimsical', u'discretionary']}
+,
+{'word': 'aruba', 'syns': [u'Aruba', u'island']}
+,
+{'word': 'aside', 'syns': [u"actor's", u'speech', u'words']}
+,
+{'word': 'ask', 'syns': [u'inquire', u'enquire', u'communicate', u'intercommunicate']}
+,
+{'word': 'ash', 'syns': [u'residue']}
+,
+{'word': 'artificial', 'syns': [u'unreal', u'arranged', u'staged', u'bionic', u'bleached']}
+,
+{'word': 'argument', 'syns': [u'statement', u'evidence']}
+,
+{'word': 'artwork', 'syns': [u'art', u'graphics', u'nontextual', u'visual']}
+,
+{'word': 'artist', 'syns': [u'creative', u'creator']}
+,
+{'word': 'aspect', 'syns': [u'facet', u'feature', u'characteristic']}
+,
+{'word': 'assembled', 'syns': [u'accumulated', u'amassed', u'collected', u'congregate', u'massed']}
+,
+{'word': 'arrange', 'syns': [u'set', u'put', u'set', u'place', u'pose']}
+,
+{'word': 'armor', 'syns': [u'armour', u'protective', u'protective', u'protection']}
+,
+{'word': 'asp', 'syns': [u'asp', u'Vipera', u'viper']}
+,
+{'word': 'arnold', 'syns': [u'Arnold', u'Matthew', u'poet', u'literary']}
+,
+{'word': 'asbestos', 'syns': [u'amphibole']}
+,
+{'word': 'assess', 'syns': [u'measure', u'evaluate', u'valuate', u'appraise', u'value']}
+,
+{'word': 'asin', 'syns': [u'Asin', u'Asvina', u'Hindu']}
+,
+{'word': 'asian', 'syns': [u'Asian', u'Asiatic', u'continent']}
+,
+{'word': 'arrangement', 'syns': [u'agreement', u'planning', u'preparation', u'provision']}
+,
+{'word': 'arthur', 'syns': [u'Arthur', u'Chester', u'Chester', u'President', u'President']}
+,
+{'word': 'ass', 'syns': [u'buttocks', u'nates', u'arse', u'butt', u'backside']}
+,
+{'word': 'assessment', 'syns': [u'appraisal', u'classification', u'categorization', u'categorisation', u'sorting']}
+,
+{'word': 'assigned', 'syns': [u'allotted', u'appointed', u'unassigned']}
+,
+{'word': 'assist', 'syns': [u'aid', u'assistance', u'help', u'activity']}
+,
+{'word': 'assign', 'syns': [u'delegate', u'designate', u'depute', u'appoint', u'charge']}
+,
+{'word': 'asset', 'syns': [u'plus', u'quality', u'liability']}
+,
+{'word': 'assets', 'syns': [u'possession']}
+,
+{'word': 'associated', 'syns': [u'connected', u'related', u'related']}
+,
+{'word': 'assembly', 'syns': [u'machine']}
+,
+{'word': 'assisted', 'syns': [u'aided', u'motor-assisted', u'power-assisted', u'unassisted']}
+,
+{'word': 'assignment', 'syns': [u'duty', u'duty']}
+,
+{'word': 'assume', 'syns': [u'presume', u'take', u'expect', u'anticipate']}
+,
+{'word': 'assistant', 'syns': [u'adjunct', u'subordinate', u'low-level']}
+,
+{'word': 'asking', 'syns': [u'interrogative', u'interrogatory', u'declaratory', u'declarative']}
+,
+{'word': 'assistance', 'syns': [u'aid', u'assist', u'help', u'activity']}
+,
+{'word': 'assumption', 'syns': [u'premise', u'premiss', u'postulate', u'posit']}
+,
+{'word': 'assurance', 'syns': [u'self-assurance', u'confidence', u'self-confidence', u'authority', u'sureness']}
+,
+{'word': 'assault', 'syns': [u'battle', u'conflict', u'fight', u'engagement']}
+,
+{'word': 'associate', 'syns': [u'subordinate', u'low-level']}
+,
+{'word': 'assure', 'syns': [u'guarantee', u'ensure', u'insure', u'secure']}
+,
+{'word': 'association', 'syns': [u'organization', u'organisation']}
+,
+{'word': 'astronomy', 'syns': [u'uranology', u'physics', u'physical', u'natural']}
+,
+{'word': 'assuming', 'syns': [u'assumptive', u'presumptuous', u'forward']}
+,
+{'word': 'assured', 'syns': [u'confident']}
+,
+{'word': 'asthma', 'syns': [u'asthma', u'bronchial', u'respiratory', u'respiratory', u'respiratory']}
+,
+{'word': 'ate', 'syns': [u'Ate', u'Greek']}
+,
+{'word': 'at', 'syns': [u'astatine', u'At', u'atomic', u'chemical', u'element']}
+,
+{'word': 'astrology', 'syns': [u'star', u'pseudoscience']}
+,
+{'word': 'athens', 'syns': [u'Athens', u'Athinai', u'capital', u'Greek', u'national']}
+,
+{'word': 'assumed', 'syns': [u'assumptive', u'taken', u'acknowledged']}
+,
+{'word': 'athletic', 'syns': [u'diversion', u'recreation']}
+,
+{'word': 'atomic', 'syns': [u'substance', u'matter']}
+,
+{'word': 'atlanta', 'syns': [u'Atlanta', u'capital', u'state']}
+,
+{'word': 'atmosphere', 'syns': [u'ambiance', u'ambience', u'condition', u'status']}
+,
+{'word': 'atm', 'syns': [u'standard', u'atmosphere', u'standard', u'pressure']}
+,
+{'word': 'athletics', 'syns': [u'sport', u'diversion', u'recreation']}
+,
+{'word': 'attachment', 'syns': [u'fond', u'affection', u'affectionateness', u'fondness', u'tenderness']}
+,
+{'word': 'atmospheric', 'syns': [u'atmospherical', u'region', u'part']}
+,
+{'word': 'atlas', 'syns': [u'Atlas', u'Titan']}
+,
+{'word': 'atom', 'syns': [u'substance', u'matter']}
+,
+{'word': 'attach', 'syns': [u'connect', u'link', u'tie', u'link', u'detach']}
+,
+{'word': 'attack', 'syns': [u'onslaught', u'onset', u'onrush', u'operation', u'military']}
+,
+{'word': 'attendance', 'syns': [u'attending', u'group', u'nonattendance']}
+,
+{'word': 'atlantic', 'syns': [u'Atlantic', u'ocean']}
+,
+{'word': 'attached', 'syns': [u'connected']}
+,
+{'word': 'attempt', 'syns': [u'effort', u'endeavor', u'endeavour', u'try', u'activity']}
+,
+{'word': 'attending', 'syns': [u'attendant', u'in', u'present']}
+,
+{'word': 'attend', 'syns': [u'go', u'be', u'miss']}
+,
+{'word': 'attempted', 'syns': [u'unsuccessful']}
+,
+{'word': 'attraction', 'syns': [u'attractive', u'force', u'repulsion']}
+,
+{'word': 'attitude', 'syns': [u'mental', u'cognition', u'knowledge', u'noesis']}
+,
+{'word': 'attended', 'syns': [u'accompanied', u'unaccompanied']}
+,
+{'word': 'attorney', 'syns': [u'lawyer', u'professional', u'professional']}
+,
+{'word': 'attention', 'syns': [u'attending', u'basic', u'inattention']}
+,
+{'word': 'attract', 'syns': [u'pull', u'pull', u'draw', u'draw', u'pull']}
+,
+{'word': 'attribute', 'syns': [u'property', u'dimension', u'concept', u'conception', u'construct']}
+,
+{'word': 'auburn', 'syns': [u'chromatic']}
+,
+{'word': 'au', 'syns': [u'gold', u'Au', u'atomic', u'noble']}
+,
+{'word': 'audit', 'syns': [u'audited', u'accounting', u'accounting', u'method']}
+,
+{'word': 'audience', 'syns': [u'gathering', u'assemblage']}
+,
+{'word': 'august', 'syns': [u'grand', u'lordly', u'noble']}
+,
+{'word': 'audio', 'syns': [u'sound', u'auditory']}
+,
+{'word': 'auction', 'syns': [u'auction', u'bridge']}
+,
+{'word': 'auckland', 'syns': [u'Auckland', u'city', u'metropolis', u'urban', u'port']}
+,
+{'word': 'attractive', 'syns': [u'bewitching', u'captivating', u'enchanting', u'enthralling', u'entrancing']}
+,
+{'word': 'australian', 'syns': [u'Australian', u'continent']}
+,
+{'word': 'authentication', 'syns': [u'hallmark', u'assay-mark', u'marker', u'marking', u'mark']}
+,
+{'word': 'aug', 'syns': [u'August', u'Aug', u'Gregorian']}
+,
+{'word': 'australia', 'syns': [u'Australia', u'Commonwealth', u'country', u'state', u'land']}
+,
+{'word': 'austin', 'syns': [u'Austin', u'capital', u'state']}
+,
+{'word': 'austria', 'syns': [u'Austria', u'Republic', u'Oesterreich', u'European', u'European']}
+,
+{'word': 'auditor', 'syns': [u'hearer', u'listener', u'attender', u'perceiver', u'percipient']}
+,
+{'word': 'aurora', 'syns': [u'dawn', u'dawning', u'morning', u'first', u'daybreak']}
+,
+{'word': 'authentic', 'syns': [u'reliable', u'trustworthy', u'trusty']}
+,
+{'word': 'authority', 'syns': [u'authorization', u'authorisation', u'potency', u'dominance', u'say-so']}
+,
+{'word': 'author', 'syns': [u'writer', u'communicator']}
+,
+{'word': 'authorities', 'syns': [u'government', u'regime', u'polity']}
+,
+{'word': 'automatically', 'syns': [u'mechanically']}
+,
+{'word': 'automation', 'syns': [u'mechanization', u'mechanisation', u'high', u'high']}
+,
+{'word': 'automobile', 'syns': [u'car', u'auto', u'machine', u'motorcar', u'motor']}
+,
+{'word': 'automatic', 'syns': [u'autoloading', u'self-loading', u'semiautomatic', u'automated', u'machine-controlled']}
+,
+{'word': 'auto', 'syns': [u'car', u'automobile', u'machine', u'motorcar', u'motor']}
+,
+{'word': 'authorized', 'syns': [u'authorised', u'accredited', u'commissioned', u'licensed', u'licenced']}
+,
+{'word': 'authorization', 'syns': [u'mandate', u'authorisation', u'legal', u'legal', u'official']}
+,
+{'word': 'automated', 'syns': [u'machine-controlled', u'machine-driven', u'automatic']}
+,
+{'word': 'automotive', 'syns': [u'motor', u'automotive']}
+,
+{'word': 'autumn', 'syns': [u'fall', u'season', u'time']}
+,
+{'word': 'av', 'syns': [u'Ab', u'Av', u'Jewish']}
+,
+{'word': 'avenue', 'syns': [u'approach', u'attack', u'plan']}
+,
+{'word': 'avatar', 'syns': [u'embodiment', u'incarnation', u'personification']}
+,
+{'word': 'availability', 'syns': [u'handiness', u'accessibility', u'availableness', u'convenience', u'unavailability']}
+,
+{'word': 'available', 'syns': [u'accessible', u'acquirable', u'addressable', u'easy', u'forthcoming']}
+,
+{'word': 'avoid', 'syns': [u'confront']}
+,
+{'word': 'avon', 'syns': [u'Avon', u'River', u'river']}
+,
+{'word': 'ba', 'syns': [u'barium', u'Ba', u'atomic', u'metallic', u'metal']}
+,
+{'word': 'b', 'syns': [u'bacillus', u'B', u'eubacteria', u'eubacterium', u'true']}
+,
+{'word': 'baby', 'syns': [u'babe', u'infant', u'child', u'kid']}
+,
+{'word': 'aviation', 'syns': [u'air', u'collection', u'aggregation', u'accumulation', u'assemblage']}
+,
+{'word': 'aware', 'syns': [u'cognizant', u'cognisant', u'alert', u'alive', u'awake']}
+,
+{'word': 'backing', 'syns': [u'backup', u'championship', u'patronage', u'blessing', u'approval']}
+,
+{'word': 'away', 'syns': [u'gone', u'departed', u'absent']}
+,
+{'word': 'bacteria', 'syns': [u'bacterium', u'microorganism', u'micro-organism']}
+,
+{'word': 'bad', 'syns': [u'atrocious', u'abominable', u'awful', u'dreadful', u'painful']}
+,
+{'word': 'az', 'syns': [u'azimuth', u'AZ', u'angle']}
+,
+{'word': 'axis', 'syns': [u'line']}
+,
+{'word': 'bachelor', 'syns': [u'unmarried', u'man', u'adult']}
+,
+{'word': 'average', 'syns': [u'mean', u'normal']}
+,
+{'word': 'backed', 'syns': [u'hardbacked', u'hardback', u'hardbound', u'hardcover', u'high-backed']}
+,
+{'word': 'babe', 'syns': [u'baby', u'infant', u'child', u'kid']}
+,
+{'word': 'baghdad', 'syns': [u'Baghdad', u'Bagdad', u'capital', u'national']}
+,
+{'word': 'background', 'syns': [u'inheritance', u'heritage']}
+,
+{'word': 'back', 'syns': [u'backmost', u'hindermost', u'hindmost', u'rearmost', u'rear']}
+,
+{'word': 'award', 'syns': [u'awarding', u'grant', u'subsidization', u'subsidisation']}
+,
+{'word': 'badge', 'syns': [u'emblem', u'allegory']}
+,
+{'word': 'backup', 'syns': [u'accretion', u'accumulation']}
+,
+{'word': 'awesome', 'syns': [u'amazing', u'awe-inspiring', u'awful', u'awing', u'impressive']}
+,
+{'word': 'balance', 'syns': [u'equilibrium', u'imbalance']}
+,
+{'word': 'balanced', 'syns': [u'counterbalanced', u'counterpoised', u'harmonious', u'proportionate', u'symmetrical']}
+,
+{'word': 'awareness', 'syns': [u'consciousness', u'cognizance', u'cognisance', u'knowingness', u'knowing']}
+,
+{'word': 'baking', 'syns': [u'baking', u'hot']}
+,
+{'word': 'ballet', 'syns': [u'concert', u'stage', u'choreography']}
+,
+{'word': 'bald', 'syns': [u'barefaced', u'overt', u'open']}
+,
+{'word': 'awful', 'syns': [u'atrocious', u'abominable', u'dreadful', u'painful', u'terrible']}
+,
+{'word': 'ball', 'syns': [u'game']}
+,
+{'word': 'bacterial', 'syns': [u'microorganism', u'micro-organism']}
+,
+{'word': 'badly', 'syns': [u'severely', u'gravely', u'seriously']}
+,
+{'word': 'bag', 'syns': [u'container']}
+,
+{'word': 'bangladesh', 'syns': [u'Bangladesh', u"People's", u'Bangla', u'East', u'Asian']}
+,
+{'word': 'ballot', 'syns': [u'document', u'written', u'papers']}
+,
+{'word': 'bacon', 'syns': [u'cut']}
+,
+{'word': 'ban', 'syns': [u'prohibition', u'proscription', u'decree', u'edict', u'fiat']}
+,
+{'word': 'bangkok', 'syns': [u'Bangkok', u'capital', u'Krung', u'national', u'port']}
+,
+{'word': 'bailey', 'syns': [u'Bailey', u'Pearl', u'Pearl', u'singer', u'vocalist']}
+,
+{'word': 'azerbaijan', 'syns': [u'Azerbaijan', u'Azerbaijani', u'Azerbajdzhan', u'Azerbajdzhan', u'Asian']}
+,
+{'word': 'bankruptcy', 'syns': [u'failure']}
+,
+{'word': 'band', 'syns': [u'set', u'circle', u'lot', u'social']}
+,
+{'word': 'banner', 'syns': [u'superior']}
+,
+{'word': 'bahamas', 'syns': [u'Bahamas', u'Commonwealth', u'Bahama', u'country', u'state']}
+,
+{'word': 'balloon', 'syns': [u'plaything', u'toy']}
+,
+{'word': 'bali', 'syns': [u'Bali', u'island']}
+,
+{'word': 'bahrain', 'syns': [u'Bahrain', u'Bahrain', u'Bahrein', u'Bahrein', u'island']}
+,
+{'word': 'bargain', 'syns': [u'deal', u'agreement', u'understanding']}
+,
+{'word': 'banned', 'syns': [u'prohibited', u'illegal']}
+,
+{'word': 'baptist', 'syns': [u'Baptist', u'Baptistic', u'Protestant']}
+,
+{'word': 'bandwidth', 'syns': [u'information']}
+,
+{'word': 'bang', 'syns': [u'knock', u'bash', u'smash', u'belt', u'blow']}
+,
+{'word': 'bank', 'syns': [u'depository', u'banking', u'banking', u'financial', u'financial']}
+,
+{'word': 'barbados', 'syns': [u'Barbados', u'country', u'state', u'land']}
+,
+{'word': 'bar', 'syns': [u'barroom', u'saloon', u'ginmill', u'taproom', u'room']}
+,
+{'word': 'baltimore', 'syns': [u'Baltimore', u'city', u'metropolis', u'urban', u'port']}
+,
+{'word': 'banking', 'syns': [u'finance']}
+,
+{'word': 'barrier', 'syns': [u'obstruction', u'obstructor', u'obstructer', u'impediment', u'impedimenta']}
+,
+{'word': 'bare', 'syns': [u'au', u'naked', u'nude', u'unclothed']}
+,
+{'word': 'baker', 'syns': [u'merchant', u'merchandiser']}
+,
+{'word': 'barcelona', 'syns': [u'Barcelona', u'city', u'metropolis', u'urban', u'port']}
+,
+{'word': 'base', 'syns': [u'basal', u'basic']}
+,
+{'word': 'baseline', 'syns': [u'standard', u'criterion', u'measure', u'touchstone']}
+,
+{'word': 'banks', 'syns': [u'Banks', u'Sir', u'botanist', u'phytologist', u'plant']}
+,
+{'word': 'banana', 'syns': [u'banana', u'herb', u'herbaceous']}
+,
+{'word': 'bars', 'syns': [u'parallel', u'gymnastic', u'exerciser']}
+,
+{'word': 'barely', 'syns': [u'hardly', u'just', u'scarcely', u'scarce']}
+,
+{'word': 'baseball', 'syns': [u'baseball', u'ball', u'ballgame']}
+,
+{'word': 'basement', 'syns': [u'cellar', u'floor', u'level', u'storey', u'story']}
+,
+{'word': 'based', 'syns': [u'supported']}
+,
+{'word': 'barrel', 'syns': [u'gun', u'tube', u'tubing']}
+,
+{'word': 'barn', 'syns': [u'farm']}
+,
+{'word': 'basin', 'syns': [u'vessel']}
+,
+{'word': 'bass', 'syns': [u'deep', u'low', u'low-pitched']}
+,
+{'word': 'basis', 'syns': [u'footing', u'ground', u'foundation']}
+,
+{'word': 'basically', 'syns': [u'fundamentally', u'essentially', u'in', u'au']}
+,
+{'word': 'basics', 'syns': [u'rudiments', u'fact']}
+,
+{'word': 'batch', 'syns': [u'collection', u'aggregation', u'accumulation', u'assemblage']}
+,
+{'word': 'bath', 'syns': [u'vessel']}
+,
+{'word': 'basic', 'syns': [u'basal', u'base', u'elementary', u'elemental', u'primary']}
+,
+{'word': 'bat', 'syns': [u'chiropteran', u'placental', u'placental', u'eutherian', u'eutherian']}
+,
+{'word': 'battle', 'syns': [u'conflict', u'fight', u'engagement', u'military', u'action']}
+,
+{'word': 'basketball', 'syns': [u'basketball', u'hoops', u'court']}
+,
+{'word': 'bathroom', 'syns': [u'bath', u'room']}
+,
+{'word': 'basket', 'syns': [u'handbasket', u'container']}
+,
+{'word': 'bay', 'syns': [u'colored', u'coloured', u'colorful']}
+,
+{'word': 'battlefield', 'syns': [u'battleground', u'field', u'field', u'field', u'tract']}
+,
+{'word': 'bb', 'syns': [u'BB', u'BB', u'shot', u'pellet']}
+,
+{'word': 'batman', 'syns': [u'attendant', u'attender', u'tender']}
+,
+{'word': 'battery', 'syns': [u'artillery', u'artillery']}
+,
+{'word': 'bd', 'syns': [u'Bachelor', u'BD', u"bachelor's", u'baccalaureate']}
+,
+{'word': 'bbs', 'syns': [u'bulletin', u'bulletin', u'electronic', u'digital']}
+,
+{'word': 'beach', 'syns': [u'geological', u'formation']}
+,
+{'word': 'bc', 'syns': [u'BC', u'B.C.', u'before']}
+,
+{'word': 'be', 'syns': [u'beryllium', u'Be', u'glucinium', u'atomic', u'metallic']}
+,
+{'word': 'bean', 'syns': [u'edible', u'legume']}
+,
+{'word': 'beam', 'syns': [u'radio', u'signal', u'signaling', u'sign']}
+,
+{'word': 'beads', 'syns': [u'string', u'string']}
+,
+{'word': 'bear', 'syns': [u'carnivore']}
+,
+{'word': 'bearing', 'syns': [u'load-bearing', u'supporting', u'nonbearing']}
+,
+{'word': 'beast', 'syns': [u'animal', u'animate', u'brute', u'creature', u'fauna']}
+,
+{'word': 'beat', 'syns': [u'all', u'bushed', u'dead', u'tired']}
+,
+{'word': 'beatles', 'syns': [u'Beatles', u'rock', u'rock']}
+,
+{'word': 'beaver', 'syns': [u'beaver', u'fur', u'pelt']}
+,
+{'word': 'beauty', 'syns': [u'appearance', u'visual', u'ugliness']}
+,
+{'word': 'beautifully', 'syns': [u'attractively', u'unattractively']}
+,
+{'word': 'become', 'syns': [u'go', u'get', u'change', u'turn', u'get']}
+,
+{'word': 'beats', 'syns': [u'beat', u'beatniks', u'youth']}
+,
+{'word': 'bedroom', 'syns': [u'sleeping', u'chamber', u'bedchamber', u'room']}
+,
+{'word': 'bed', 'syns': [u'furniture', u'piece', u'article']}
+,
+{'word': 'becoming', 'syns': [u'comely', u'comme', u'decent', u'decorous', u'seemly']}
+,
+{'word': 'beautiful', 'syns': [u'beauteous', u'bonny', u'bonnie', u'comely', u'fair']}
+,
+{'word': 'bedding', 'syns': [u'bedclothes', u'bed', u'cloth']}
+,
+{'word': 'bee', 'syns': [u'hymenopterous', u'hymenopteran', u'hymenopteron', u'hymenopter']}
+,
+{'word': 'before', 'syns': [u'earlier']}
+,
+{'word': 'beer', 'syns': [u'brew', u'brewage']}
+,
+{'word': 'beef', 'syns': [u'beef', u'cattle', u'cows', u'kine', u'oxen']}
+,
+{'word': 'begin', 'syns': [u'Begin', u'Menachem', u'statesman', u'solon', u'national']}
+,
+{'word': 'beginning', 'syns': [u'first', u'opening']}
+,
+{'word': 'beginner', 'syns': [u'novice', u'tyro', u'tiro', u'initiate', u'unskilled']}
+,
+{'word': 'behalf', 'syns': [u'stead', u'position', u'place', u'lieu']}
+,
+{'word': 'behavior', 'syns': [u'behaviour', u'conduct', u'doings', u'activity']}
+,
+{'word': 'behavioral', 'syns': [u'behavioural', u'activity']}
+,
+{'word': 'behaviour', 'syns': [u'behavior', u'action', u'activity', u'activeness']}
+,
+{'word': 'being', 'syns': [u'beingness', u'existence', u'state', u'nonexistence', u'nonbeing']}
+,
+{'word': 'belgium', 'syns': [u'Belgium', u'Kingdom', u'Belgique', u'European', u'European']}
+,
+{'word': 'behind', 'syns': [u'down']}
+,
+{'word': 'beijing', 'syns': [u'Beijing', u'Peking', u'Peiping', u'capital', u'national']}
+,
+{'word': 'belarus', 'syns': [u'Belarus', u'Republic', u'Byelarus', u'Byelorussia', u'Belorussia']}
+,
+{'word': 'believe', 'syns': [u'accept', u'disbelieve']}
+,
+{'word': 'belfast', 'syns': [u'Belfast', u'capital', u'capital']}
+,
+{'word': 'belly', 'syns': [u'abdomen', u'venter', u'stomach', u'body']}
+,
+{'word': 'belle', 'syns': [u'girl', u'miss', u'missy', u'young', u'young']}
+,
+{'word': 'belief', 'syns': [u'content', u'cognitive', u'mental', u'unbelief']}
+,
+{'word': 'belize', 'syns': [u'Belize', u'British', u'Central', u'Central']}
+,
+{'word': 'bell', 'syns': [u'acoustic', u'signaling']}
+,
+{'word': 'below', 'syns': [u'at', u'to', u'beneath', u'above']}
+,
+{'word': 'benchmark', 'syns': [u'standard', u'criterion', u'measure', u'touchstone']}
+,
+{'word': 'belong', 'syns': [u'be']}
+,
+{'word': 'benjamin', 'syns': [u'benzoin', u'gum', u'gum', u'asa', u'gum']}
+,
+{'word': 'berkeley', 'syns': [u'Berkeley', u'Bishop', u'George', u'philosopher', u'bishop']}
+,
+{'word': 'belt', 'syns': [u'loop']}
+,
+{'word': 'beneficial', 'syns': [u'good', u'advantageous']}
+,
+{'word': 'bench', 'syns': [u'seat']}
+,
+{'word': 'ben', 'syns': [u'mountain', u'mount']}
+,
+{'word': 'best', 'syns': [u'champion', u'prizewinning', u'high-grade', u'top-quality', u'top-grade']}
+,
+{'word': 'bermuda', 'syns': [u'Bermuda', u'Bermudas', u'island']}
+,
+{'word': 'benefit', 'syns': [u'payment']}
+,
+{'word': 'berlin', 'syns': [u'Berlin', u'German', u'national']}
+,
+{'word': 'bennett', 'syns': [u'Bennett', u'Floyd', u'aviator', u'aeronaut', u'airman']}
+,
+{'word': 'bernard', 'syns': [u'Bernard', u'Claude', u'physiologist']}
+,
+{'word': 'berry', 'syns': [u'edible']}
+,
+{'word': 'bend', 'syns': [u'crook', u'twist', u'turn', u'curve', u'curved']}
+,
+{'word': 'bibliographic', 'syns': [u'bibliographical', u'list', u'listing']}
+,
+{'word': 'betting', 'syns': [u'dissipated', u'card-playing', u'sporting', u'indulgent']}
+,
+{'word': 'beneath', 'syns': [u'below', u'at', u'to', u'above']}
+,
+{'word': 'bhutan', 'syns': [u'Bhutan', u'Kingdom', u'Asian', u'Asian']}
+,
+{'word': 'beverage', 'syns': [u'drink', u'drinkable', u'potable', u'food', u'nutrient']}
+,
+{'word': 'beyond', 'syns': [u'on']}
+,
+{'word': 'bid', 'syns': [u'command', u'bidding', u'dictation', u'speech']}
+,
+{'word': 'bibliography', 'syns': [u'list', u'listing']}
+,
+{'word': 'bicycle', 'syns': [u'bike', u'wheel', u'cycle', u'wheeled']}
+,
+{'word': 'bible', 'syns': [u'Bible', u'Christian', u'Book', u'Good', u'Holy']}
+,
+{'word': 'bestiality', 'syns': [u'inhumaneness', u'inhumanity']}
+,
+{'word': 'bigger', 'syns': [u'larger', u'large', u'big']}
+,
+{'word': 'bill', 'syns': [u'measure', u'legal', u'legal', u'official', u'instrument']}
+,
+{'word': 'besides', 'syns': [u'in']}
+,
+{'word': 'bet', 'syns': [u'stake', u'stakes', u'wager', u'gamble']}
+,
+{'word': 'between', 'syns': [u'betwixt']}
+,
+{'word': 'better', 'syns': [u'amended', u'finer', u'improved', u'worse']}
+,
+{'word': 'beta', 'syns': [u'important', u'of']}
+,
+{'word': 'bidder', 'syns': [u'applicant', u'applier']}
+,
+{'word': 'beth', 'syns': [u'letter', u'letter', u'alphabetic']}
+,
+{'word': 'bind', 'syns': [u'hindrance', u'hinderance', u'deterrent', u'impediment', u'balk']}
+,
+{'word': 'bin', 'syns': [u'container']}
+,
+{'word': 'binding', 'syns': [u'valid']}
+,
+{'word': 'bingo', 'syns': [u'lotto', u'beano', u'keno', u'board']}
+,
+{'word': 'biography', 'syns': [u'life', u'life', u'life', u'history', u'account']}
+,
+{'word': 'biology', 'syns': [u'biological', u'life', u'bioscience']}
+,
+{'word': 'bird', 'syns': [u'vertebrate', u'craniate']}
+,
+{'word': 'biological', 'syns': [u'biologic', u'life']}
+,
+{'word': 'bit', 'syns': [u'spot', u'small', u'small']}
+,
+{'word': 'birthday', 'syns': [u'anniversary', u'day']}
+,
+{'word': 'birmingham', 'syns': [u'Birmingham', u'Pittsburgh', u'city', u'metropolis', u'urban']}
+,
+{'word': 'bishop', 'syns': [u'priest']}
+,
+{'word': 'bitch', 'syns': [u'difficulty']}
+,
+{'word': 'black', 'syns': [u'dark', u'white']}
+,
+{'word': 'biz', 'syns': [u'game', u'occupation', u'business', u'job', u'line']}
+,
+{'word': 'bk', 'syns': [u'berkelium', u'Bk', u'atomic', u'metallic', u'metal']}
+,
+{'word': 'blackjack', 'syns': [u'blackjack', u'jack', u'Quercus', u'scrub']}
+,
+{'word': 'blair', 'syns': [u'Blair', u'Tony', u'Anthony', u'statesman', u'solon']}
+,
+{'word': 'blah', 'syns': [u'bombast', u'fustian', u'rant', u'claptrap', u'grandiosity']}
+,
+{'word': 'bias', 'syns': [u'oblique']}
+,
+{'word': 'bi', 'syns': [u'bismuth', u'Bi', u'atomic', u'metallic', u'metal']}
+,
+{'word': 'big', 'syns': [u'large', u'ample', u'sizable', u'sizeable', u'astronomic']}
+,
+{'word': 'blast', 'syns': [u'fly', u'fly']}
+,
+{'word': 'blank', 'syns': [u'clean', u'white', u'empty']}
+,
+{'word': 'bidding', 'syns': [u'command', u'bid', u'dictation', u'speech']}
+,
+{'word': 'blame', 'syns': [u'blasted', u'blamed', u'blessed', u'damn', u'damned']}
+,
+{'word': 'blanket', 'syns': [u'across-the-board', u'all-embracing', u'all-encompassing', u'all-inclusive', u'broad']}
+,
+{'word': 'biblical', 'syns': [u'scriptural', u'sacred', u'sacred', u'religious', u'religious']}
+,
+{'word': 'billing', 'syns': [u'charge', u'request', u'asking']}
+,
+{'word': 'blend', 'syns': [u'mix', u'mixture']}
+,
+{'word': 'bike', 'syns': [u'motorcycle', u'motor', u'automotive']}
+,
+{'word': 'bless', 'syns': [u'raise', u'conjure', u'conjure', u'invoke', u'evoke']}
+,
+{'word': 'blocked', 'syns': [u'out', u'closed']}
+,
+{'word': 'block', 'syns': [u'artifact', u'artefact']}
+,
+{'word': 'blowjob', 'syns': [u'cock', u'fellatio', u'fellation']}
+,
+{'word': 'blind', 'syns': [u'unsighted', u'blinded', u'blindfold', u'blindfolded', u'color-blind']}
+,
+{'word': 'bikini', 'syns': [u'Bikini', u'atoll']}
+,
+{'word': 'billy', 'syns': [u'truncheon', u'nightstick', u'baton', u'billystick', u'billy']}
+,
+{'word': 'blog', 'syns': [u'web', u'diary', u'journal']}
+,
+{'word': 'boating', 'syns': [u'yachting', u'water', u'seafaring']}
+,
+{'word': 'board', 'syns': [u'committee', u'commission']}
+,
+{'word': 'blues', 'syns': [u'black', u'African-American', u'folk', u'folksong', u'folk']}
+,
+{'word': 'bite', 'syns': [u'wound', u'lesion']}
+,
+{'word': 'blink', 'syns': [u'eye', u'blinking', u'wink', u'winking', u'nictitation']}
+,
+{'word': 'blonde', 'syns': [u'blond', u'light-haired', u'ash-blonde', u'platinum-blonde', u'towheaded']}
+,
+{'word': 'blackberry', 'syns': [u'berry', u'drupelet']}
+,
+{'word': 'binary', 'syns': [u'positional', u'positional']}
+,
+{'word': 'boards', 'syns': [u'theater', u'theatre']}
+,
+{'word': 'bolt', 'syns': [u'thunderbolt', u'bolt', u'lightning']}
+,
+{'word': 'blocking', 'syns': [u'block', u'obstruction']}
+,
+{'word': 'blade', 'syns': [u'leaf', u'leaf', u'leafage', u'foliage']}
+,
+{'word': 'blue', 'syns': [u'bluish', u'blueish', u'chromatic']}
+,
+{'word': 'billion', 'syns': [u'cardinal']}
+,
+{'word': 'bloody', 'syns': [u'blood-filled', u'bloodied', u'bloodstained', u'gory', u'bloodsucking']}
+,
+{'word': 'biodiversity', 'syns': [u'diverseness', u'diversity', u'multifariousness', u'variety']}
+,
+{'word': 'birth', 'syns': [u'beginning', u'commencement', u'first', u'outset', u'get-go']}
+,
+{'word': 'blake', 'syns': [u'Blake', u'William', u'poet', u'painter']}
+,
+{'word': 'bleeding', 'syns': [u'hemorrhage', u'haemorrhage', u'injury', u'hurt', u'harm']}
+,
+{'word': 'body', 'syns': [u'organic', u'physical', u'natural']}
+,
+{'word': 'biotechnology', 'syns': [u'molecular']}
+,
+{'word': 'bold', 'syns': [u'audacious', u'brave', u'dauntless', u'fearless', u'intrepid']}
+,
+{'word': 'bonus', 'syns': [u'fillip', u'positive']}
+,
+{'word': 'book', 'syns': [u'publication']}
+,
+{'word': 'bomb', 'syns': [u'explosive', u'weaponry', u'arms', u'implements', u'weapons']}
+,
+{'word': 'bone', 'syns': [u'bony', u'boney']}
+,
+{'word': 'blowing', 'syns': [u'processing']}
+,
+{'word': 'bones', 'syns': [u'castanets', u'clappers', u'finger', u'maraca', u'percussion']}
+,
+{'word': 'bloom', 'syns': [u'blooming', u'organic', u'biological']}
+,
+{'word': 'bookmark', 'syns': [u'bookmarker', u'marker']}
+,
+{'word': 'boob', 'syns': [u'dumbbell', u'dummy', u'dope', u'booby', u'pinhead']}
+,
+{'word': 'bizarre', 'syns': [u'eccentric', u'freakish', u'freaky', u'flaky', u'flakey']}
+,
+{'word': 'bookstore', 'syns': [u'bookshop', u'bookstall', u'shop', u'store']}
+,
+{'word': 'bond', 'syns': [u'enslaved', u'enthralled', u'in', u'slave']}
+,
+{'word': 'blessed', 'syns': [u'blest', u'favored', u'fortunate', u'golden', u'glorious']}
+,
+{'word': 'blogger', 'syns': [u'person', u'individual', u'someone', u'somebody', u'mortal']}
+,
+{'word': 'boolean', 'syns': [u'Boolean', u'mathematician']}
+,
+{'word': 'boom', 'syns': [u'roar', u'roaring', u'thunder', u'noise']}
+,
+{'word': 'boot', 'syns': [u'footwear', u'footgear']}
+,
+{'word': 'blond', 'syns': [u'blonde', u'light-haired', u'ash-blonde', u'platinum-blonde', u'towheaded']}
+,
+{'word': 'boost', 'syns': [u'encouragement', u'aid', u'assist', u'assistance', u'help']}
+,
+{'word': 'booty', 'syns': [u'loot', u'pillage', u'plunder', u'prize', u'swag']}
+,
+{'word': 'blood', 'syns': [u'liquid', u'bodily', u'body', u'humor', u'humour']}
+,
+{'word': 'boring', 'syns': [u'deadening', u'dull', u'ho-hum', u'irksome', u'slow']}
+,
+{'word': 'border', 'syns': [u'boundary', u'borderline', u'delimitation', u'mete', u'boundary']}
+,
+{'word': 'blow', 'syns': [u'stroke']}
+,
+{'word': 'bosnia', 'syns': [u'Bosnia', u'state', u'province']}
+,
+{'word': 'born', 'syns': [u'given', u'hatched', u'dropped', u'whelped', u'foaled']}
+,
+{'word': 'both', 'syns': [u'some']}
+,
+{'word': 'boss', 'syns': [u'brag', u'superior']}
+,
+{'word': 'bm', 'syns': [u'fecal', u'faecal', u'feces', u'faeces', u'BM']}
+,
+{'word': 'boat', 'syns': [u'vessel', u'watercraft']}
+,
+{'word': 'borough', 'syns': [u'administrative', u'administrative', u'territorial']}
+,
+{'word': 'bother', 'syns': [u'fuss', u'trouble', u'hassle', u'perturbation', u'disturbance']}
+,
+{'word': 'bob', 'syns': [u'British', u'shilling', u'British']}
+,
+{'word': 'bottle', 'syns': [u'vessel']}
+,
+{'word': 'bottom', 'syns': [u'bottommost', u'lowermost', u'nethermost', u'inferior', u'nether']}
+,
+{'word': 'bobby', 'syns': [u'policeman', u'police', u'officer']}
+,
+{'word': 'bondage', 'syns': [u'subjugation', u'subjection']}
+,
+{'word': 'bolivia', 'syns': [u'Bolivia', u'Republic', u'South', u'South']}
+,
+{'word': 'booking', 'syns': [u'engagement', u'employment', u'work']}
+,
+{'word': 'booth', 'syns': [u'table']}
+,
+{'word': 'boston', 'syns': [u'Boston', u'Hub', u'Bean', u'Beantown', u'capital']}
+,
+{'word': 'botswana', 'syns': [u'Botswana', u'Republic', u'African', u'African']}
+,
+{'word': 'boutique', 'syns': [u'dress', u'shop', u'store']}
+,
+{'word': 'boundary', 'syns': [u'bound', u'bounds', u'extremity']}
+,
+{'word': 'box', 'syns': [u'container']}
+,
+{'word': 'bracket', 'syns': [u'set']}
+,
+{'word': 'boxed', 'syns': [u'bordered']}
+,
+{'word': 'bored', 'syns': [u'world-weary', u'tired']}
+,
+{'word': 'boulevard', 'syns': [u'avenue', u'street']}
+,
+{'word': 'bouquet', 'syns': [u'corsage', u'posy', u'nosegay', u'flower']}
+,
+{'word': 'bound', 'syns': [u'conjugate', u'conjugated', u'conjugate', u'conjugated', u'free']}
+,
+{'word': 'bow', 'syns': [u'bowknot', u'knot']}
+,
+{'word': 'bowling', 'syns': [u'game']}
+,
+{'word': 'boulder', 'syns': [u'bowlder', u'rock', u'stone']}
+,
+{'word': 'boxing', 'syns': [u'pugilism', u'fisticuffs', u'contact']}
+,
+{'word': 'bowl', 'syns': [u'vessel']}
+,
+{'word': 'bradford', 'syns': [u'Bradford', u'William', u'printer', u'pressman']}
+,
+{'word': 'brad', 'syns': [u'nail']}
+,
+{'word': 'br', 'syns': [u'bromine', u'Br', u'atomic', u'chemical', u'element']}
+,
+{'word': 'brain', 'syns': [u'encephalon', u'neural']}
+,
+{'word': 'bra', 'syns': [u'brassiere', u'bandeau', u'undergarment', u'unmentionable', u"woman's"]}
+,
+{'word': 'boy', 'syns': [u'male', u'male', u'male', u'girl', u'female']}
+,
+{'word': 'brazil', 'syns': [u'Brazil', u'Federative', u'Brasil', u'South', u'South']}
+,
+{'word': 'brave', 'syns': [u'courageous', u'desperate', u'heroic', u'gallant', u'game']}
+,
+{'word': 'breaking', 'syns': [u'breakage', u'break', u'change']}
+,
+{'word': 'brand', 'syns': [u'trade', u'brand', u'marque', u'name']}
+,
+{'word': 'bradley', 'syns': [u'Bradley', u'Thomas', u'Tom', u'politician', u'politico']}
+,
+{'word': 'breast', 'syns': [u'body']}
+,
+{'word': 'bread', 'syns': [u'breadstuff', u'staff', u'baked']}
+,
+{'word': 'breed', 'syns': [u'lineage', u'line', u'line', u'descent', u'bloodline']}
+,
+{'word': 'breeding', 'syns': [u'fruitful']}
+,
+{'word': 'branch', 'syns': [u'subdivision', u'arm', u'division']}
+,
+{'word': 'brake', 'syns': [u'restraint', u'constraint']}
+,
+{'word': 'bracelet', 'syns': [u'watchband', u'watchstrap', u'wristband', u'watch', u'band']}
+,
+{'word': 'breakdown', 'syns': [u'dislocation', u'disruption', u'perturbation']}
+,
+{'word': 'brazilian', 'syns': [u'Brazilian', u'South', u'South']}
+,
+{'word': 'breath', 'syns': [u'bodily', u'body', u'bodily', u'activity']}
+,
+{'word': 'brass', 'syns': [u'copper-base']}
+,
+{'word': 'breach', 'syns': [u'failure']}
+,
+{'word': 'breathing', 'syns': [u'eupneic', u'eupnoeic', u'sweet-breathed', u'snoring', u'snorting']}
+,
+{'word': 'break', 'syns': [u'interruption', u'happening', u'occurrence', u'occurrent', u'natural']}
+,
+{'word': 'breakfast', 'syns': [u'meal', u'repast']}
+,
+{'word': 'briefly', 'syns': [u'concisely', u'shortly', u'in', u'in']}
+,
+{'word': 'bring', 'syns': [u'convey', u'take', u'transport', u'carry', u'bring']}
+,
+{'word': 'brighton', 'syns': [u'Brighton', u'city', u'metropolis', u'urban']}
+,
+{'word': 'bridge', 'syns': [u'span', u'structure', u'construction']}
+,
+{'word': 'brick', 'syns': [u'ceramic', u'building']}
+,
+{'word': 'brilliant', 'syns': [u'superb', u'superior']}
+,
+{'word': 'briefs', 'syns': [u'Jockey', u'underpants']}
+,
+{'word': 'bridal', 'syns': [u'nuptial', u'spousal', u'ceremony', u'ceremonial', u'ceremonial']}
+,
+{'word': 'brief', 'syns': [u'little', u'short']}
+,
+{'word': 'broad', 'syns': [u'wide', u'beamy', u"bird's-eye", u'panoramic', u'broad-brimmed']}
+,
+{'word': 'bringing', 'syns': [u'delivery', u'transportation', u'transfer', u'transferral', u'conveyance']}
+,
+{'word': 'british', 'syns': [u'British', u'island']}
+,
+{'word': 'bridges', 'syns': [u'Bridges', u'Harry', u'labor']}
+,
+{'word': 'broadband', 'syns': [u'system']}
+,
+{'word': 'briefing', 'syns': [u'informing', u'making']}
+,
+{'word': 'broadcast', 'syns': [u'message']}
+,
+{'word': 'broker', 'syns': [u'agent', u'factor', u'businessperson', u'bourgeois']}
+,
+{'word': 'bright', 'syns': [u'agleam', u'gleaming', u'nitid', u'aglow', u'lambent']}
+,
+{'word': 'bride', 'syns': [u'newlywed', u'honeymooner']}
+,
+{'word': 'brochure', 'syns': [u'booklet', u'folder', u'leaflet', u'pamphlet', u'book']}
+,
+{'word': 'bristol', 'syns': [u'Bristol', u'city', u'metropolis', u'urban', u'port']}
+,
+{'word': 'brisbane', 'syns': [u'Brisbane', u'state']}
+,
+{'word': 'britain', 'syns': [u'United', u'UK', u'U.K.', u'Great', u'GB']}
+,
+{'word': 'broken', 'syns': [u'damaged', u'imperfect', u'injured', u'unsound', u'unbroken']}
+,
+{'word': 'bronze', 'syns': [u'bronzy', u'chromatic']}
+,
+{'word': 'broadway', 'syns': [u'Broadway', u'Great', u'street']}
+,
+{'word': 'broadcasting', 'syns': [u'broadcast', u'medium', u'mass']}
+,
+{'word': 'broke', 'syns': [u'bust', u'skint', u'stone-broke', u'stony-broke', u'poor']}
+,
+{'word': 'brooklyn', 'syns': [u'Brooklyn', u'borough']}
+,
+{'word': 'browser', 'syns': [u'spectator', u'witness', u'viewer', u'watcher', u'looker']}
+,
+{'word': 'brother', 'syns': [u'blood', u'male', u'sister']}
+,
+{'word': 'brunette', 'syns': [u'brunet', u'adust', u'bronzed', u'suntanned', u'tanned']}
+,
+{'word': 'brook', 'syns': [u'creek', u'stream', u'watercourse']}
+,
+{'word': 'browse', 'syns': [u'browsing', u'reading']}
+,
+{'word': 'brunswick', 'syns': [u'Brunswick', u'town']}
+,
+{'word': 'brutal', 'syns': [u'cruel', u'inhumane']}
+,
+{'word': 'brown', 'syns': [u'brownish', u'chocolate-brown', u'dark-brown', u'chromatic']}
+,
+{'word': 'brooks', 'syns': [u'Brooks', u'Van', u'literary']}
+,
+{'word': 'bruce', 'syns': [u'Bruce', u'David', u'Sir', u'doctor', u'doc']}
+,
+{'word': 'browsing', 'syns': [u'browse', u'reading']}
+,
+{'word': 'bryan', 'syns': [u'Bryan', u'William', u'Great', u'Boy', u'politician']}
+,
+{'word': 'buck', 'syns': [u'vaulting', u'long', u'horse', u'gymnastic']}
+,
+{'word': 'brush', 'syns': [u'brushwood', u'coppice', u'copse', u'thicket', u'vegetation']}
+,
+{'word': 'brussels', 'syns': [u'Bruxelles', u'Brussels', u'Belgian', u'capital', u'national']}
+,
+{'word': 'brunei', 'syns': [u'Brunei', u'Negara', u'sultanate']}
+,
+{'word': 'budapest', 'syns': [u'Budapest', u'Hungarian', u'capital', u'national']}
+,
+{'word': 'buddy', 'syns': [u'brother', u'chum', u'crony', u'pal', u'sidekick']}
+,
+{'word': 'bs', 'syns': [u'Bachelor', u'BS', u'SB', u"bachelor's", u'baccalaureate']}
+,
+{'word': 'bubble', 'syns': [u'globule']}
+,
+{'word': 'budget', 'syns': [u'fund', u'monetary']}
+,
+{'word': 'buffalo', 'syns': [u'American', u'American', u'Bison', u'bison']}
+,
+{'word': 'bug', 'syns': [u'insect']}
+,
+{'word': 'build', 'syns': [u'physique', u'body-build', u'habitus', u'bodily']}
+,
+{'word': 'buffer', 'syns': [u'compound', u'chemical']}
+,
+{'word': 'bulgaria', 'syns': [u'Bulgaria', u'Republic', u'Balkan', u'Balkan', u'Balkan']}
+,
+{'word': 'building', 'syns': [u'edifice', u'structure', u'construction']}
+,
+{'word': 'built', 'syns': [u'reinforced', u'improved']}
+,
+{'word': 'builder', 'syns': [u'detergent', u'material', u'stuff']}
+,
+{'word': 'bumper', 'syns': [u'abundant']}
+,
+{'word': 'bullet', 'syns': [u'slug', u'projectile', u'missile']}
+,
+{'word': 'bull', 'syns': [u'cattle', u'cows', u'kine', u'oxen', u'Bos']}
+,
+{'word': 'bulgarian', 'syns': [u'Bulgarian', u'Balkan', u'Balkan', u'Balkan']}
+,
+{'word': 'bunch', 'syns': [u'clump', u'cluster', u'clustering', u'agglomeration']}
+,
+{'word': 'bulletin', 'syns': [u'report', u'news', u'story', u'account', u'write']}
+,
+{'word': 'bulk', 'syns': [u'majority', u'number', u'figure', u'minority']}
+,
+{'word': 'buried', 'syns': [u'inhumed', u'interred', u'belowground', u'unburied']}
+,
+{'word': 'bundle', 'syns': [u'package', u'packet', u'parcel', u'collection', u'aggregation']}
+,
+{'word': 'burden', 'syns': [u'load', u'encumbrance', u'incumbrance', u'onus', u'concern']}
+,
+{'word': 'burke', 'syns': [u'Burke', u'Edmund', u'statesman', u'solon', u'national']}
+,
+{'word': 'bureau', 'syns': [u'agency', u'federal', u'government', u'office', u'authority']}
+,
+{'word': 'bunny', 'syns': [u'bunny', u'waitress']}
+,
+{'word': 'burn', 'syns': [u'burning', u'pain', u'hurting']}
+,
+{'word': 'burner', 'syns': [u'apparatus', u'setup']}
+,
+{'word': 'burlington', 'syns': [u'Burlington', u'city', u'metropolis', u'urban']}
+,
+{'word': 'burton', 'syns': [u'Burton', u'Richard', u'Sir', u'Sir', u'explorer']}
+,
+{'word': 'bus', 'syns': [u'autobus', u'coach', u'charabanc', u'double-decker', u'jitney']}
+,
+{'word': 'burns', 'syns': [u'Burns', u'George', u'Nathan', u'vaudevillian', u'comedian']}
+,
+{'word': 'burst', 'syns': [u'ruptured', u'busted', u'damaged']}
+,
+{'word': 'burning', 'syns': [u'painful']}
+,
+{'word': 'business', 'syns': [u'concern', u'business', u'business', u'business', u'enterprise']}
+,
+{'word': 'butler', 'syns': [u'pantryman', u'manservant']}
+,
+{'word': 'busy', 'syns': [u'at', u'drudging', u'laboring', u'labouring', u'toiling']}
+,
+{'word': 'butt', 'syns': [u'butt', u'stock']}
+,
+{'word': 'but', 'syns': [u'merely', u'simply', u'just', u'only']}
+,
+{'word': 'bush', 'syns': [u'bush-league', u'inferior']}
+,
+{'word': 'busty', 'syns': [u'bosomy', u'buxom', u'curvaceous', u'curvy', u'full-bosomed']}
+,
+{'word': 'butterfly', 'syns': [u'lepidopterous', u'lepidopteron', u'lepidopteran']}
+,
+{'word': 'button', 'syns': [u'fastener', u'fastening', u'holdfast', u'fixing']}
+,
+{'word': 'ca', 'syns': [u'calcium', u'Ca', u'atomic', u'metallic', u'metal']}
+,
+{'word': 'c', 'syns': [u'hundred', u'one', u'100', u'cardinal']}
+,
+{'word': 'butter', 'syns': [u'dairy', u'food', u'solid']}
+,
+{'word': 'buy', 'syns': [u'bargain', u'steal', u'purchase']}
+,
+{'word': 'buying', 'syns': [u'purchasing', u'purchase']}
+,
+{'word': 'bw', 'syns': [u'biological', u'BW', u'biological', u'biologic', u'bioattack']}
+,
+{'word': 'buyer', 'syns': [u'purchaser', u'emptor', u'vendee', u'customer', u'client']}
+,
+{'word': 'cab', 'syns': [u'compartment']}
+,
+{'word': 'bye', 'syns': [u'pass', u'concession', u'conceding', u'yielding']}
+,
+{'word': 'cable', 'syns': [u'cablegram', u'overseas', u'telegram', u'wire']}
+,
+{'word': 'cake', 'syns': [u'bar', u'block']}
+,
+{'word': 'cabinet', 'syns': [u'furniture', u'piece', u'article']}
+,
+{'word': 'by', 'syns': [u'past']}
+,
+{'word': 'cache', 'syns': [u'storage']}
+,
+{'word': 'cage', 'syns': [u'coop', u'enclosure']}
+,
+{'word': 'cabin', 'syns': [u'compartment']}
+,
+{'word': 'cad', 'syns': [u'bounder', u'blackguard', u'dog', u'hound', u'heel']}
+,
+{'word': 'byte', 'syns': [u'computer']}
+,
+{'word': 'calculate', 'syns': [u'cipher', u'cypher', u'compute', u'work', u'reckon']}
+,
+{'word': 'calculation', 'syns': [u'computation', u'computing', u'procedure', u'process']}
+,
+{'word': 'cafe', 'syns': [u'coffeehouse', u'coffee', u'coffee', u'restaurant', u'eating']}
+,
+{'word': 'calculator', 'syns': [u'calculating', u'machine']}
+,
+{'word': 'calcium', 'syns': [u'Ca', u'atomic', u'metallic', u'metal']}
+,
+{'word': 'buzz', 'syns': [u'bombilation', u'bombination', u'sound']}
+,
+{'word': 'calculated', 'syns': [u'deliberate', u'measured', u'premeditated']}
+,
+{'word': 'calgary', 'syns': [u'Calgary', u'city', u'metropolis', u'urban']}
+,
+{'word': 'calendar', 'syns': [u'arrangement', u'organization', u'organisation', u'system']}
+,
+{'word': 'calibration', 'syns': [u'standardization', u'standardisation', u'activity']}
+,
+{'word': 'calm', 'syns': [u'unagitated', u'serene', u'tranquil', u'composed']}
+,
+{'word': 'california', 'syns': [u'California', u'Golden', u'CA', u'Calif.', u'American']}
+,
+{'word': 'called', 'syns': [u'named', u'titled']}
+,
+{'word': 'calling', 'syns': [u'career', u'vocation', u'occupation', u'business', u'job']}
+,
+{'word': 'camcorder', 'syns': [u'television', u'tv', u'camera']}
+,
+{'word': 'calif', 'syns': [u'caliph', u'kaliph', u'kalif', u'khalif', u'khalifah']}
+,
+{'word': 'cambodia', 'syns': [u'Cambodia', u'Kingdom', u'Kampuchea', u'Asian', u'Asian']}
+,
+{'word': 'camel', 'syns': [u'even-toed', u'artiodactyl', u'artiodactyl']}
+,
+{'word': 'cambridge', 'syns': [u'Cambridge', u'Cambridge', u'university']}
+,
+{'word': 'calvin', 'syns': [u'Calvin', u'Melvin', u'chemist']}
+,
+{'word': 'cam', 'syns': [u'Cam', u'River', u'Cam', u'river']}
+,
+{'word': 'camera', 'syns': [u'photographic', u'photographic']}
+,
+{'word': 'call', 'syns': [u'phone', u'telephone', u'telephone', u'telephony']}
+,
+{'word': 'cameroon', 'syns': [u'Cameroon', u'volcano']}
+,
+{'word': 'camp', 'syns': [u'campy', u'tasteless']}
+,
+{'word': 'campaign', 'syns': [u'political', u'run', u'race']}
+,
+{'word': 'campbell', 'syns': [u'Campbell', u'Joseph', u'mythologist']}
+,
+{'word': 'can', 'syns': [u'tin', u'tin', u'container']}
+,
+{'word': 'canada', 'syns': [u'Canada', u'North', u'North']}
+,
+{'word': 'camping', 'syns': [u'encampment', u'bivouacking', u'tenting', u'inhabitancy', u'inhabitation']}
+,
+{'word': 'campus', 'syns': [u'field']}
+,
+{'word': 'cancelled', 'syns': [u'off', u'on']}
+,
+{'word': 'cancel', 'syns': [u'natural', u'musical']}
+,
+{'word': 'cancellation', 'syns': [u'nullification', u'override']}
+,
+{'word': 'canberra', 'syns': [u'Canberra', u'Australian', u'capital', u'national']}
+,
+{'word': 'canadian', 'syns': [u'Canadian', u'North', u'North']}
+,
+{'word': 'canal', 'syns': [u'channel']}
+,
+{'word': 'cannon', 'syns': [u'artillery', u'heavy', u'gun', u'ordnance']}
+,
+{'word': 'candidate', 'syns': [u'campaigner', u'nominee', u'politician', u'politico', u'pol']}
+,
+{'word': 'canvas', 'syns': [u'canvas', u'canvass', u'canvass', u'fabric', u'cloth']}
+,
+{'word': 'cancer', 'syns': [u'malignant', u'malignant', u'malignant', u'metastatic']}
+,
+{'word': 'cap', 'syns': [u'headdress', u'headgear']}
+,
+{'word': 'candy', 'syns': [u'confect', u'sweet', u'confection']}
+,
+{'word': 'candle', 'syns': [u'taper', u'wax', u'lamp']}
+,
+{'word': 'capitol', 'syns': [u'government']}
+,
+{'word': 'car', 'syns': [u'auto', u'automobile', u'machine', u'motorcar', u'motor']}
+,
+{'word': 'capability', 'syns': [u'capableness', u'ability', u'incapableness', u'incapability']}
+,
+{'word': 'cape', 'syns': [u'ness', u'land', u'dry', u'earth', u'ground']}
+,
+{'word': 'capable', 'syns': [u'able', u'confident', u'surefooted', u'sure-footed', u'resourceful']}
+,
+{'word': 'canon', 'syns': [u'rule', u'prescript']}
+,
+{'word': 'cardiff', 'syns': [u'Cardiff', u'capital']}
+,
+{'word': 'cant', 'syns': [u'buzzword', u'nonsense', u'bunk', u'nonsensicality', u'meaninglessness']}
+,
+{'word': 'capital', 'syns': [u'superior']}
+,
+{'word': 'career', 'syns': [u'calling', u'vocation', u'occupation', u'business', u'job']}
+,
+{'word': 'cards', 'syns': [u'card', u'game']}
+,
+{'word': 'care', 'syns': [u'attention', u'aid', u'tending', u'work']}
+,
+{'word': 'card', 'syns': [u'paper']}
+,
+{'word': 'canyon', 'syns': [u'canon', u'ravine']}
+,
+{'word': 'capture', 'syns': [u'gaining', u'seizure', u'acquiring', u'getting']}
+,
+{'word': 'careful', 'syns': [u'blow-by-blow', u'cautious', u'certain', u'sure', u'close']}
+,
+{'word': 'captain', 'syns': [u'commissioned']}
+,
+{'word': 'capacity', 'syns': [u'capability', u'capableness', u'incapacity']}
+,
+{'word': 'carlos', 'syns': [u'Sanchez', u'Ilich', u'Ilich', u'Carlos', u'Carlos']}
+,
+{'word': 'caroline', 'syns': [u'Caroline', u'Carolean', u'King', u'King', u'Holy']}
+,
+{'word': 'carnival', 'syns': [u'festival', u'fete']}
+,
+{'word': 'cargo', 'syns': [u'lading', u'freight', u'load', u'loading', u'payload']}
+,
+{'word': 'carbon', 'syns': [u'C', u'atomic', u'chemical', u'element']}
+,
+{'word': 'cardiac', 'syns': [u'internal', u'viscus']}
+,
+{'word': 'carpet', 'syns': [u'rug', u'carpeting', u'floor', u'floor', u'furnishing']}
+,
+{'word': 'cardiovascular', 'syns': [u'vessel', u'vas']}
+,
+{'word': 'carroll', 'syns': [u'Carroll', u'Lewis', u'Dodgson', u'Reverend', u'Charles']}
+,
+{'word': 'carrier', 'syns': [u'bearer', u'toter', u'traveler', u'traveller']}
+,
+{'word': 'caring', 'syns': [u'protective', u'tender']}
+,
+{'word': 'carry', 'syns': [u'transportation', u'transfer', u'transferral', u'conveyance']}
+,
+{'word': 'carefully', 'syns': [u'cautiously', u'with', u'carelessly', u'incautiously']}
+,
+{'word': 'carter', 'syns': [u'Carter', u'Howard', u'Egyptologist']}
+,
+{'word': 'cart', 'syns': [u'wagon', u'waggon']}
+,
+{'word': 'caribbean', 'syns': [u'Caribbean', u'Caribbean', u'sea']}
+,
+{'word': 'cartridge', 'syns': [u'ammunition', u'ammo']}
+,
+{'word': 'case', 'syns': [u'lawsuit', u'suit', u'cause', u'causa', u'proceeding']}
+,
+{'word': 'cash', 'syns': [u'hard', u'hard', u'currency']}
+,
+{'word': 'casting', 'syns': [u'cast', u'copy']}
+,
+{'word': 'carol', 'syns': [u'Christmas', u'religious']}
+,
+{'word': 'cast', 'syns': [u'formed']}
+,
+{'word': 'casual', 'syns': [u'insouciant', u'nonchalant', u'unconcerned']}
+,
+{'word': 'carolina', 'syns': [u'Carolina', u'geographical', u'geographic', u'geographical', u'geographic']}
+,
+{'word': 'cat', 'syns': [u'true', u'feline', u'felid']}
+,
+{'word': 'catch', 'syns': [u'gimmick', u'drawback']}
+,
+{'word': 'cartoon', 'syns': [u'sketch', u'wit', u'humor', u'humour', u'witticism']}
+,
+{'word': 'catalogue', 'syns': [u'catalog', u'list', u'listing']}
+,
+{'word': 'catalyst', 'syns': [u'accelerator', u'activator', u'anticatalyst']}
+,
+{'word': 'casino', 'syns': [u'gambling', u'gambling', u'gambling', u'gambling', u'gaming']}
+,
+{'word': 'category', 'syns': [u'class', u'family', u'collection', u'aggregation', u'accumulation']}
+,
+{'word': 'catering', 'syns': [u'occupation', u'business', u'job', u'line', u'line']}
+,
+{'word': 'catherine', 'syns': [u'Catherine', u'Catherine', u'wife', u'married']}
+,
+{'word': 'cathedral', 'syns': [u'throne']}
+,
+{'word': 'cassette', 'syns': [u'container']}
+,
+{'word': 'catalog', 'syns': [u'catalogue', u'book']}
+,
+{'word': 'catholic', 'syns': [u'Catholic', u'Christianity', u'Christian']}
+,
+{'word': 'castle', 'syns': [u'palace', u'mansion', u'mansion', u'manse', u'hall']}
+,
+{'word': 'cattle', 'syns': [u'cows', u'kine', u'oxen', u'Bos', u'bovine']}
+,
+{'word': 'cause', 'syns': [u'origin', u'origination', u'inception']}
+,
+{'word': 'cayman', 'syns': [u'caiman', u'crocodilian', u'crocodilian']}
+,
+{'word': 'causing', 'syns': [u'causation', u'deed', u'feat', u'effort', u'exploit']}
+,
+{'word': 'cave', 'syns': [u'geological', u'formation']}
+,
+{'word': 'cd', 'syns': [u'four', u'400', u'cardinal']}
+,
+{'word': 'cc', 'syns': [u'two', u'200', u'cardinal']}
+,
+{'word': 'caution', 'syns': [u'cautiousness', u'carefulness', u'attentiveness', u'incaution']}
+,
+{'word': 'ceiling', 'syns': [u'upper']}
+,
+{'word': 'cdna', 'syns': [u'complementary', u'cDNA', u'deoxyribonucleic', u'desoxyribonucleic', u'DNA']}
+,
+{'word': 'celebration', 'syns': [u'jubilation', u'affair', u'occasion', u'social', u'function']}
+,
+{'word': 'ce', 'syns': [u'cerium', u'Ce', u'atomic', u'metallic', u'metal']}
+,
+{'word': 'cedar', 'syns': [u'cedar', u'conifer', u'coniferous']}
+,
+{'word': 'celebrate', 'syns': [u'observe', u'keep']}
+,
+{'word': 'cellular', 'syns': [u'living', u'animate']}
+,
+{'word': 'cell', 'syns': [u'compartment']}
+,
+{'word': 'cemetery', 'syns': [u'graveyard', u'burial', u'burial', u'burying', u'memorial']}
+,
+{'word': 'celebrity', 'syns': [u'famous', u'important', u'influential', u'personage']}
+,
+{'word': 'census', 'syns': [u'nose', u'nosecount', u'count', u'counting', u'numeration']}
+,
+{'word': 'cement', 'syns': [u'concrete']}
+,
+{'word': 'cent', 'syns': [u'fractional', u'subunit', u'Sri', u'rupee']}
+,
+{'word': 'central', 'syns': [u'cardinal', u'fundamental', u'key', u'primal', u'important']}
+,
+{'word': 'celtic', 'syns': [u'Celtic', u'Gaelic', u'European']}
+,
+{'word': 'centered', 'syns': [u'central']}
+,
+{'word': 'centre', 'syns': [u'Centre', u'French']}
+,
+{'word': 'century', 'syns': [u'time', u'period', u'period']}
+,
+{'word': 'ceo', 'syns': [u'chief', u'CEO', u'chief', u'corporate', u'business']}
+,
+{'word': 'center', 'syns': [u'halfway', u'middle', u'midway', u'central']}
+,
+{'word': 'ceramic', 'syns': [u'instrumentality', u'instrumentation']}
+,
+{'word': 'certification', 'syns': [u'enfranchisement', u'authorization', u'authorisation', u'empowerment', u'disenfranchisement']}
+,
+{'word': 'certainly', 'syns': [u'surely', u'sure', u'for', u'for', u'sure']}
+,
+{'word': 'certain', 'syns': [u'definite']}
+,
+{'word': 'ceremony', 'syns': [u'ceremonial', u'ceremonial', u'observance', u'affair', u'occasion']}
+,
+{'word': 'certificate', 'syns': [u'certification', u'credential', u'credentials', u'document', u'written']}
+,
+{'word': 'certified', 'syns': [u'certifiable', u'certificated', u'credentialed', u'documented', u'uncertified']}
+,
+{'word': 'cf', 'syns': [u'californium', u'Cf', u'atomic', u'metallic', u'metal']}
+,
+{'word': 'chad', 'syns': [u'paper']}
+,
+{'word': 'chair', 'syns': [u'seat']}
+,
+{'word': 'challenge', 'syns': [u'situation', u'state']}
+,
+{'word': 'chain', 'syns': [u'concatenation', u'series']}
+,
+{'word': 'chains', 'syns': [u'irons', u'shackle', u'bond', u'hamper', u'trammel']}
+,
+{'word': 'chairman', 'syns': [u'president', u'chairwoman', u'chair', u'chairperson', u'presiding']}
+,
+{'word': 'challenging', 'syns': [u'ambitious', u'difficult', u'hard']}
+,
+{'word': 'champion', 'syns': [u'prizewinning', u'best']}
+,
+{'word': 'chamber', 'syns': [u'enclosure']}
+,
+{'word': 'championship', 'syns': [u'title', u'high']}
+,
+{'word': 'champagne', 'syns': [u'bubbly', u'sparkling']}
+,
+{'word': 'chambers', 'syns': [u'Chambers', u'William', u'Sir', u'architect', u'designer']}
+,
+{'word': 'chance', 'syns': [u'accidental', u'casual', u'unplanned']}
+,
+{'word': 'changed', 'syns': [u'denatured', u'denaturized', u'denaturised', u'exchanged', u'transformed']}
+,
+{'word': 'chancellor', 'syns': [u'premier', u'prime', u'head', u'chief']}
+,
+{'word': 'channel', 'syns': [u'transmission', u'transmission']}
+,
+{'word': 'change', 'syns': [u'alteration', u'modification', u'happening', u'occurrence', u'occurrent']}
+,
+{'word': 'chaos', 'syns': [u'pandemonium', u'bedlam', u'topsy-turvydom', u'topsy-turvyness', u'confusion']}
+,
+{'word': 'changing', 'syns': [u'ever-changing', u'dynamic', u'dynamical']}
+,
+{'word': 'channels', 'syns': [u'transmission']}
+,
+{'word': 'characteristic', 'syns': [u'diagnostic', u'symptomatic', u'distinctive', u'typical', u'distinguishing']}
+,
+{'word': 'chapel', 'syns': [u'place', u'house', u'house', u'house']}
+,
+{'word': 'character', 'syns': [u'fictional', u'fictitious', u'imaginary', u'imaginary']}
+,
+{'word': 'chapter', 'syns': [u'section', u'subdivision']}
+,
+{'word': 'characterization', 'syns': [u'word', u'word-painting', u'delineation', u'depiction', u'picture']}
+,
+{'word': 'char', 'syns': [u'carbon', u'C', u'atomic']}
+,
+{'word': 'charge', 'syns': [u'complaint', u'pleading']}
+,
+{'word': 'characterized', 'syns': [u'characterised', u'defined']}
+,
+{'word': 'charitable', 'syns': [u'giving', u'gift']}
+,
+{'word': 'charged', 'syns': [u'hot', u'live', u'negatively', u'positively', u'polar']}
+,
+{'word': 'charger', 'syns': [u'courser', u'warhorse']}
+,
+{'word': 'charleston', 'syns': [u'Charleston', u'capital', u'state']}
+,
+{'word': 'charity', 'syns': [u'foundation']}
+,
+{'word': 'charlotte', 'syns': [u'Charlotte', u'Queen', u'city', u'metropolis', u'urban']}
+,
+{'word': 'charles', 'syns': [u'Charles', u'Charles', u'King']}
+,
+{'word': 'charter', 'syns': [u'document', u'written', u'papers']}
+,
+{'word': 'charm', 'syns': [u'appeal', u'appealingness', u'attractiveness']}
+,
+{'word': 'chat', 'syns': [u'confab', u'confabulation', u'schmooze', u'schmoose', u'conversation']}
+,
+{'word': 'charming', 'syns': [u'pleasing']}
+,
+{'word': 'cheat', 'syns': [u'darnel', u'tare', u'bearded', u'Lolium', u'rye']}
+,
+{'word': 'check', 'syns': [u'bank', u'cheque', u'draft', u'bill', u'order']}
+,
+{'word': 'chart', 'syns': [u'visual']}
+,
+{'word': 'checked', 'syns': [u'curbed', u'restrained']}
+,
+{'word': 'chemical', 'syns': [u'chemic', u'natural']}
+,
+{'word': 'cheese', 'syns': [u'dairy', u'food', u'solid']}
+,
+{'word': 'chef', 'syns': [u'cook']}
+,
+{'word': 'chase', 'syns': [u'pursuit', u'pursual', u'following', u'motion', u'movement']}
+,
+{'word': 'chassis', 'syns': [u'human', u'physical', u'material', u'soma', u'build']}
+,
+{'word': 'checklist', 'syns': [u'list', u'listing']}
+,
+{'word': 'checkout', 'syns': [u'check', u'check-out', u'inspection', u'review']}
+,
+{'word': 'chemistry', 'syns': [u'chemical', u'natural']}
+,
+{'word': 'chess', 'syns': [u'cheat', u'Bromus', u'brome', u'bromegrass']}
+,
+{'word': 'cheap', 'syns': [u'inexpensive', u'bargain-priced', u'cut-rate', u'cut-price', u'catchpenny']}
+,
+{'word': 'chest', 'syns': [u'thorax', u'pectus', u'body']}
+,
+{'word': 'chief', 'syns': [u'main', u'primary', u'principal', u'important', u'of']}
+,
+{'word': 'chicago', 'syns': [u'Chicago', u'Windy', u'city', u'metropolis', u'urban']}
+,
+{'word': 'chi', 'syns': [u'qi', u"ch'i", u'ki', u'energy', u'vim']}
+,
+{'word': 'chicken', 'syns': [u'chickenhearted', u'lily-livered', u'white-livered', u'yellow', u'yellow-bellied']}
+,
+{'word': 'chick', 'syns': [u'biddy', u'chicken', u'Gallus', u'young']}
+,
+{'word': 'chen', 'syns': [u'Chen', u'subgenus', u'bird']}
+,
+{'word': 'cheque', 'syns': [u'check', u'bank', u'draft', u'bill', u'order']}
+,
+{'word': 'chip', 'syns': [u'bit', u'flake', u'fleck', u'scrap', u'fragment']}
+,
+{'word': 'cherry', 'syns': [u'red', u'reddish', u'ruddy', u'blood-red', u'carmine']}
+,
+{'word': 'chile', 'syns': [u'Chile', u'Republic', u'South', u'South']}
+,
+{'word': 'chinese', 'syns': [u'Chinese', u'island']}
+,
+{'word': 'china', 'syns': [u'China', u"People's", u'mainland', u'Communist', u'Red']}
+,
+{'word': 'child', 'syns': [u'kid', u'youngster', u'minor', u'shaver', u'nipper']}
+,
+{'word': 'chester', 'syns': [u'Chester', u'city', u'metropolis', u'urban']}
+,
+{'word': 'childhood', 'syns': [u'time']}
+,
+{'word': 'chevy', 'syns': [u'harass', u'hassle', u'harry', u'chivy', u'chivvy']}
+,
+{'word': 'choir', 'syns': [u'chorus']}
+,
+{'word': 'cholesterol', 'syns': [u'cholesterin', u'sterol', u'steroid']}
+,
+{'word': 'choice', 'syns': [u'prime', u'prize', u'quality', u'select', u'superior']}
+,
+{'word': 'chosen', 'syns': [u'selected']}
+,
+{'word': 'christianity', 'syns': [u'Christianity', u'Christian', u'religion', u'faith', u'religious']}
+,
+{'word': 'chorus', 'syns': [u'sound']}
+,
+{'word': 'christ', 'syns': [u'Jesus', u'Jesus', u'the', u'Jesus', u'Christ']}
+,
+{'word': 'chocolate', 'syns': [u'cocoa', u'hot', u'drinking', u'beverage', u'drink']}
+,
+{'word': 'chronic', 'syns': [u'degenerative', u'prolonged', u'acute']}
+,
+{'word': 'christian', 'syns': [u'Christian', u'religion', u'faith', u'religious']}
+,
+{'word': 'choose', 'syns': [u'take', u'select', u'pick', u'decide', u'make']}
+,
+{'word': 'chrome', 'syns': [u'chromium', u'Cr', u'atomic']}
+,
+{'word': 'chronicle', 'syns': [u'history', u'account', u'story', u'record']}
+,
+{'word': 'christmas', 'syns': [u'Christmas', u'Christmastide', u'Christmastime', u'Yule', u'Yuletide']}
+,
+{'word': 'christopher', 'syns': [u'Christopher', u'Saint', u'St.', u'patron']}
+,
+{'word': 'chuck', 'syns': [u'chow', u'eats', u'grub', u'fare']}
+,
+{'word': 'cigarette', 'syns': [u'cigaret', u'coffin', u'butt', u'fag', u'roll']}
+,
+{'word': 'chubby', 'syns': [u'buxom', u'embonpoint', u'plump', u'zaftig', u'zoftig']}
+,
+{'word': 'ci', 'syns': [u'hundred', u'one', u'101', u'cardinal']}
+,
+{'word': 'church', 'syns': [u'Christian', u'religion', u'faith', u'organized']}
+,
+{'word': 'ciao', 'syns': [u'aloha', u'acknowledgment', u'acknowledgement']}
+,
+{'word': 'circle', 'syns': [u'ellipse', u'oval']}
+,
+{'word': 'cialis', 'syns': [u'tadalafil', u'Cialis', u'virility', u'anti-impotence']}
+,
+{'word': 'cia', 'syns': [u'Central', u'CIA', u'United', u'independent']}
+,
+{'word': 'cisco', 'syns': [u'lake', u'whitefish']}
+,
+{'word': 'citation', 'syns': [u'commendation', u'award', u'accolade', u'honor', u'honour']}
+,
+{'word': 'cinema', 'syns': [u'film', u'celluloid', u'medium']}
+,
+{'word': 'circus', 'syns': [u'company', u'troupe']}
+,
+{'word': 'cio', 'syns': [u'Congress', u'CIO', u'federation']}
+,
+{'word': 'circuit', 'syns': [u'electrical', u'electric', u'electrical']}
+,
+{'word': 'circular', 'syns': [u'round', u'apple-shaped', u'ball-shaped', u'global', u'globose']}
+,
+{'word': 'circulation', 'syns': [u'dissemination', u'airing', u'public', u'spreading']}
+,
+{'word': 'citizenship', 'syns': [u'legal']}
+,
+{'word': 'circumstances', 'syns': [u'fortune', u'destiny', u'fate', u'luck', u'lot']}
+,
+{'word': 'cite', 'syns': [u'citation', u'acknowledgment', u'credit', u'reference', u'mention']}
+,
+{'word': 'citizen', 'syns': [u'national', u'subject', u'noncitizen']}
+,
+{'word': 'civil', 'syns': [u'civilian']}
+,
+{'word': 'civilian', 'syns': [u'civil', u'noncombatant', u'military']}
+,
+{'word': 'city', 'syns': [u'metropolis', u'urban', u'municipality']}
+,
+{'word': 'civilization', 'syns': [u'civilisation', u'society']}
+,
+{'word': 'clan', 'syns': [u'kin', u'kin', u'kinship', u'kindred', u'tribe']}
+,
+{'word': 'claim', 'syns': [u'assertion', u'averment', u'asseveration']}
+,
+{'word': 'classic', 'syns': [u'classical']}
+,
+{'word': 'cl', 'syns': [u'one', u'150', u'cardinal']}
+,
+{'word': 'civic', 'syns': [u'administrative', u'administrative', u'territorial']}
+,
+{'word': 'clarity', 'syns': [u'lucidity', u'lucidness', u'pellucidity', u'clearness', u'limpidity']}
+,
+{'word': 'clark', 'syns': [u'Clark', u'William', u'explorer', u'adventurer']}
+,
+{'word': 'classics', 'syns': [u'literary']}
+,
+{'word': 'class', 'syns': [u'social', u'socio-economic', u'people']}
+,
+{'word': 'classification', 'syns': [u'categorization', u'categorisation', u'compartmentalization', u'compartmentalisation', u'assortment']}
+,
+{'word': 'classified', 'syns': [u'categorized', u'categorised', u'grouped', u'sorted', u'unclassified']}
+,
+{'word': 'clay', 'syns': [u'soil', u'dirt']}
+,
+{'word': 'cleaning', 'syns': [u'cleansing', u'cleanup', u'improvement']}
+,
+{'word': 'classical', 'syns': [u'classic', u'Greco-Roman', u'Graeco-Roman', u'Hellenic', u'neoclassic']}
+,
+{'word': 'clear', 'syns': [u'broad', u'unsubtle', u'clear-cut', u'distinct', u'trenchant']}
+,
+{'word': 'clause', 'syns': [u'construction', u'grammatical', u'expression']}
+,
+{'word': 'classroom', 'syns': [u'schoolroom', u'room']}
+,
+{'word': 'clean', 'syns': [u'cleanable', u'cleaned', u'cleansed', u'cleanly', u'dry-cleaned']}
+,
+{'word': 'cleaner', 'syns': [u'cleansing', u'cleanser', u'formulation', u'preparation']}
+,
+{'word': 'cleaners', 'syns': [u'dry', u'shop', u'store']}
+,
+{'word': 'cleared', 'syns': [u'clear-cut', u'improved', u'unwooded', u'treeless', u'uncleared']}
+,
+{'word': 'cleanup', 'syns': [u'killing', u'net', u'net', u'net', u'lucre']}
+,
+{'word': 'clearance', 'syns': [u'interval', u'separation']}
+,
+{'word': 'client', 'syns': [u'case']}
+,
+{'word': 'clearly', 'syns': [u'intelligibly', u'understandably', u'unintelligibly']}
+,
+{'word': 'cleveland', 'syns': [u'Cleveland', u'city', u'metropolis', u'urban']}
+,
+{'word': 'climate', 'syns': [u'clime', u'environmental']}
+,
+{'word': 'click', 'syns': [u'chink', u'clink', u'sound']}
+,
+{'word': 'clearing', 'syns': [u'glade', u'tract', u'piece', u'piece', u'parcel']}
+,
+{'word': 'cliff', 'syns': [u'drop', u'drop-off', u'geological', u'formation']}
+,
+{'word': 'closer', 'syns': [u'person', u'individual', u'someone', u'somebody', u'mortal']}
+,
+{'word': 'closing', 'syns': [u'concluding', u'final', u'last', u'terminal', u'terminative']}
+,
+{'word': 'clinic', 'syns': [u'medical']}
+,
+{'word': 'clinical', 'syns': [u'medical']}
+,
+{'word': 'clocks', 'syns': [u'redstem', u'alfilaria', u'alfileria', u'filaree', u'filaria']}
+,
+{'word': 'coffee', 'syns': [u'java', u'beverage', u'drink', u'drinkable', u'potable']}
+,
+{'word': 'colleague', 'syns': [u'co-worker', u'fellow', u'workfellow', u'associate']}
+,
+{'word': 'collect', 'syns': [u'cod', u'due', u'owed']}
+,
+{'word': 'collective', 'syns': [u'corporate', u'joint']}
+,
+{'word': 'collected', 'syns': [u'gathered', u'ungathered', u'uncollected']}
+,
+{'word': 'collapse', 'syns': [u'illness', u'unwellness', u'malady', u'sickness']}
+,
+{'word': 'collectible', 'syns': [u'collectable', u'payable', u'due', u'owed']}
+,
+{'word': 'collecting', 'syns': [u'collection', u'assembling', u'aggregation', u'grouping']}
+,
+{'word': 'collector', 'syns': [u'aggregator', u'person', u'individual', u'someone', u'somebody']}
+,
+{'word': 'collection', 'syns': [u'aggregation', u'accumulation', u'assemblage', u'group', u'grouping']}
+,
+{'word': 'cologne', 'syns': [u'Cologne', u'Koln', u'city', u'metropolis', u'urban']}
+,
+{'word': 'collins', 'syns': [u'Collins', u'Wilkie', u'William', u'writer', u'author']}
+,
+{'word': 'colonial', 'syns': [u'body']}
+,
+{'word': 'colon', 'syns': [u'large']}
+,
+{'word': 'complement', 'syns': [u'construction', u'grammatical', u'expression']}
+,
+{'word': 'colombia', 'syns': [u'Colombia', u'Republic', u'South', u'South']}
+,
+{'word': 'colors', 'syns': [u'colours', u'flag']}
+,
+{'word': 'colour', 'syns': [u'color', u'black-and-white']}
+,
+{'word': 'color', 'syns': [u'colour', u'black-and-white']}
+,
+{'word': 'columbia', 'syns': [u'Columbia', u'Columbia', u'river']}
+,
+{'word': 'colours', 'syns': [u'colors', u'emblem']}
+,
+{'word': 'column', 'syns': [u'file', u'single', u'Indian']}
+,
+{'word': 'combination', 'syns': [u'collection', u'aggregation', u'accumulation', u'assemblage']}
+,
+{'word': 'combat', 'syns': [u'armed', u'battle', u'conflict', u'fight', u'engagement']}
+,
+{'word': 'combined', 'syns': [u'concerted', u'conjunct', u'conjunctive', u'cooperative', u'united']}
+,
+{'word': 'combine', 'syns': [u'harvester', u'reaper']}
+,
+{'word': 'combining', 'syns': [u'combine', u'union']}
+,
+{'word': 'comfort', 'syns': [u'comfortableness', u'condition', u'status', u'discomfort']}
+,
+{'word': 'comic', 'syns': [u'amusing', u'comical', u'funny', u'laughable', u'mirthful']}
+,
+{'word': 'come', 'syns': [u'semen', u'seed', u'seminal', u'ejaculate', u'cum']}
+,
+{'word': 'combo', 'syns': [u'jazz', u'jazz', u'dance', u'band', u'dance']}
+,
+{'word': 'coming', 'syns': [u'approaching', u'forthcoming', u'upcoming', u'future']}
+,
+{'word': 'comfortable', 'syns': [u'comfy', u'cozy', u'cosy', u'snug', u'easy']}
+,
+{'word': 'concentration', 'syns': [u'property']}
+,
+{'word': 'commercial', 'syns': [u'commercialized', u'commercialised', u'mercantile', u'mercantile', u'mercenary']}
+,
+{'word': 'comment', 'syns': [u'remark', u'statement']}
+,
+{'word': 'command', 'syns': [u'bid', u'bidding', u'dictation', u'speech']}
+,
+{'word': 'commission', 'syns': [u'committee', u'administrative', u'administrative']}
+,
+{'word': 'commander', 'syns': [u'commanding', u'commandant', u'military', u'officer']}
+,
+{'word': 'commissioner', 'syns': [u'administrator', u'executive']}
+,
+{'word': 'commitment', 'syns': [u'committedness', u'seriousness', u'earnestness', u'serious-mindedness', u'sincerity']}
+,
+{'word': 'committed', 'syns': [u'bound', u'wrapped', u'pledged', u'sworn', u'uncommitted']}
+,
+{'word': 'committee', 'syns': [u'commission', u'administrative', u'administrative']}
+,
+{'word': 'commonly', 'syns': [u'normally', u'usually', u'unremarkably', u'ordinarily', u'remarkably']}
+,
+{'word': 'commodity', 'syns': [u'trade', u'good', u'artifact', u'artefact']}
+,
+{'word': 'commons', 'syns': [u'park', u'common', u'green', u'tract', u'piece']}
+,
+{'word': 'comp', 'syns': [u'comprehensive', u'comprehensive', u'examination', u'exam', u'test']}
+,
+{'word': 'conference', 'syns': [u'meeting', u'group']}
+,
+{'word': 'conscious', 'syns': [u'witting', u'intended']}
+,
+{'word': 'construction', 'syns': [u'building', u'creating']}

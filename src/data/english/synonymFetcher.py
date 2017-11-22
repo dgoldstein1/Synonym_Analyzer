@@ -49,7 +49,10 @@ def scrapeSynonym(word,key='b08CVJHscZ6rRGfc7MzS',language='en_US', max=5):
 	"""
 	endpoint = "http://thesaurus.altervista.org/thesaurus/v1"
 	url = endpoint + "?word={}&language={}&key={}&output=json".format(word,language,key)
-	r = requests.request('GET', url, timeout=5.0)
+	try :
+		r = requests.request('GET', url, timeout=5.0)
+	except :
+		return None
 	if r.status_code == 200:
 		try:
 			syns = r.json()['response'][0]['list']['synonyms'].split('|')
