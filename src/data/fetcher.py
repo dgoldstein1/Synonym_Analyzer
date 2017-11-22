@@ -10,7 +10,7 @@ Fetches language specific synonyms
 
 # internal dependencies
 import sys
-import time
+import argparse
 
 # external dependencies
 from bs4 import BeautifulSoup
@@ -54,15 +54,18 @@ def getSynonyms(words,language='english', number=5):
 
 
 if __name__ == "__main__":
-	start_time = time.time()
+
+	# parse args
+	parser = argparse.ArgumentParser(description='Fetches language specific synonyms.')
+	parser.add_argument('language', type=str ,help='The language to get synonyms of')
+	args = parser.parse_args()
 
 	#example usage:
-	words = ['beautiful', 'sweet', 'pretty', 'gorgeous', 'lovely', 'handsome', 'good', 'better', 'best', 'bad', 'worse', 'worst', 'wonderful', 'splendid', 'mediocre', 'awful', 'fantastic', 'ugly', 'clean', 'dirty', 'wasteful', 'difficult', 'comfortable', 'uncomfortable', 'valuable', 'worthy', 'worthless', 'useful', 'useless', 'important', 'evil', 'angelic', 'rare', 'scarce', 'poor', 'rich', 'disgusting', 'amazing', 'surprising', 'loathesome', 'unusual', 'usual', 'pointless', 'pertinent']
-	que = getSynonyms(words, 'english')
+	# words = ['beautiful', 'sweet', 'pretty', 'gorgeous', 'lovely', 'handsome', 'good', 'better', 'best', 'bad', 'worse', 'worst', 'wonderful', 'splendid', 'mediocre', 'awful', 'fantastic', 'ugly', 'clean', 'dirty', 'wasteful', 'difficult', 'comfortable', 'uncomfortable', 'valuable', 'worthy', 'worthless', 'useful', 'useless', 'important', 'evil', 'angelic', 'rare', 'scarce', 'poor', 'rich', 'disgusting', 'amazing', 'surprising', 'loathesome', 'unusual', 'usual', 'pointless', 'pertinent']
+	words = ['beautiful']
+	que = getSynonyms(words, args.language)
 	while not que.empty():
 		print que.get()
-
-	print("--- executed in %s seconds ---" % (time.time() - start_time))
 
 
 
