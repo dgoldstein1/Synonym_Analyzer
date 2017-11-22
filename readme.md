@@ -10,8 +10,6 @@ The main class ```synonym_graph.py``` reads in a given number of words in a targ
 
 #### virtualenv
 ```
-cd Synonym_Analyzer
-virtualenv env
 source env/bin/activate
 ```
 
